@@ -1,29 +1,84 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="Auto",100% Auto Moto TV
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1 (HD) TV Partizan"  group-title="ESTERO: BULGARIA",1 (HD) TV Partizan
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" tvg-name="100% Auto Moto TV"  group-title="ESTERO: BULGARIA",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="Alfa TV BG" tvg-name="Alfa TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/UaXwtnI.png" group-title="News",Alfa TV
-http://alfa.bg:1935/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S0GrDsQ.png" group-title="Music",Balkanika Music TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/S0GrDsQ.png" tvg-name="Balkanika Music TV"  group-title="ESTERO: BULGARIA",Balkanika Music TV
 rtsp://stream.teracomm.bg/balkanika
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5Sl6bKi.png" group-title="",BTK
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bg: Btv Cinema"  group-title="ESTERO: BULGARIA",Bg: Btv Cinema
+http://84.43.207.130/btvcinema/btvcinema.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BG: Diema"  group-title="ESTERO: BULGARIA",BG: Diema
+http://84.43.207.130/diema/diema.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BG: Europa TV"  group-title="ESTERO: BULGARIA",BG: Europa TV
+http://84.43.207.130/evropatv/evropatv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BG: Planeta HD"  group-title="ESTERO: BULGARIA",BG: Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bn Bosna Tv"  group-title="ESTERO: BULGARIA",Bn Bosna Tv
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5Sl6bKi.png" tvg-name="BTK"  group-title="ESTERO: BULGARIA",BTK
 http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
+#EXTINF:-1, tvg-id="Bulgaria On Air BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-name="Bulgaria On Air"  group-title="ESTERO: BULGARIA",Bulgaria On Air
 http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
-http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" group-title="News",Bulgaria On Air
+#EXTINF:-1, tvg-id="Bulgaria On Air BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-name="Bulgaria On Air"  group-title="ESTERO: BULGARIA",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="",Light Channel
+#EXTINF:-1, tvg-id="Bulgaria On Air BG" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-name="Bulgaria On Air"  group-title="ESTERO: BULGARIA",Bulgaria On Air
+http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="City TV [576p]"  group-title="ESTERO: BULGARIA",City TV [576p]
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duga Tv"  group-title="ESTERO: BULGARIA",Duga Tv
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 777 Tv"  group-title="ESTERO: BULGARIA",Kanal 777 Tv
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kcn 1 Tv"  group-title="ESTERO: BULGARIA",Kcn 1 Tv
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kcn 2 Tv"  group-title="ESTERO: BULGARIA",Kcn 2 Tv
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kcn 3 Tv"  group-title="ESTERO: BULGARIA",Kcn 3 Tv
+http://212.200.102.3:5000/rtp/239.0.0.3:5000
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/qskVMhF.png" tvg-name="Light Channel"  group-title="ESTERO: BULGARIA",Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova TV BG" tvg-name="Nova TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/gU4gSR0.jpg" group-title="",Nova TV
+#EXTINF:-1, tvg-id="Nova TV BG" tvg-logo="https://i.imgur.com/gU4gSR0.jpg" tvg-name="Nova TV"  group-title="ESTERO: BULGARIA",Nova TV
 https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="",This is Bulgaria
-http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" group-title="",This is Bulgaria
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novi Pazar Tv"  group-title="ESTERO: BULGARIA",Novi Pazar Tv
+http://185.20.36.201:8080/stream?sp=partners&channel=rtvnovipazar&stream=1mb&b=6&player=m3u8&u=rtvnovipazar&p=RTVN0v1Pazar
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novosadska Tv"  group-title="ESTERO: BULGARIA",Novosadska Tv
+mms://176.106.121.32:8090
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ON AIR"  group-title="ESTERO: BULGARIA",ON AIR
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ON AIR"  group-title="ESTERO: BULGARIA",ON AIR
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Planeta HD Tv"  group-title="ESTERO: BULGARIA",Planeta HD Tv
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROMA TV"  group-title="ESTERO: BULGARIA",ROMA TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROMA TV"  group-title="ESTERO: BULGARIA",ROMA TV
+http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROMA TV"  group-title="ESTERO: BULGARIA",ROMA TV
+http://77.78.130.123/hls/sd.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 1 RTV 1"  group-title="ESTERO: BULGARIA",RTV 1 RTV 1
+mmsh://212.200.255.151/rtv1?MSWMExt=.asf
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 2 RTV 2"  group-title="ESTERO: BULGARIA",RTV 2 RTV 2
+mmsh://212.200.255.151/rtv2?MSWMExt=.asf
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sandzak Tv"  group-title="ESTERO: BULGARIA",Sandzak Tv
+http://77.46.147.94:9250/
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sedemosmi Tv Bulgaria"  group-title="ESTERO: BULGARIA",Sedemosmi Tv Bulgaria
+https://ms1.sedemosmi.tv/live/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Serbia Plus Tv"  group-title="ESTERO: BULGARIA",Serbia Plus Tv
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STARA ZAGORA"  group-title="ESTERO: BULGARIA",STARA ZAGORA
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FxLjPLh.jpg" tvg-name="This is Bulgaria"  group-title="ESTERO: BULGARIA",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Travel TV BG" tvg-name="Travel TV BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" group-title="Travel",Travel TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRAVEL HD"  group-title="ESTERO: BULGARIA",TRAVEL HD
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:-1, tvg-id="Travel TV BG" tvg-logo="https://i.imgur.com/7E4Kia6.jpg" tvg-name="Travel TV"  group-title="Travel",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV+ BG" tvg-name="TV+ BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="",TV+
+#EXTINF:-1, tvg-id="TV+ BG" tvg-logo="https://i.imgur.com/W074hkS.jpg" tvg-name="TV+"  group-title="ESTERO: BULGARIA",TV+
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1 tvg-id="TV+ BG" tvg-name="TV+ BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/W074hkS.jpg" group-title="",TV+
+#EXTINF:-1, tvg-id="TV+ BG" tvg-logo="https://i.imgur.com/W074hkS.jpg" tvg-name="TV+"  group-title="ESTERO: BULGARIA",TV+
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="tvstz"  group-title="ESTERO: BULGARIA",tvstz
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="V2BEAT TV"  group-title="ESTERO: BULGARIA",V2BEAT TV
+http://139.59.166.48:8081/live/live3/playlist.m3u8

@@ -1,135 +1,156 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="",Alpe d’Huez TV
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="4 Kurd"  group-title="ESTERO: FRANCIA",4 Kurd
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="4 Turk Billboard"  group-title="ESTERO: FRANCIA",4 Turk Billboard
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0RQvs8y.png" tvg-name="Alpe d’Huez TV"  group-title="ESTERO: FRANCIA",Alpe d’Huez TV
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="",Alsace 20
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/S8TuhyF.png" tvg-name="Alsace 20"  group-title="ESTERO: FRANCIA",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="",Antenne Réunion
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-name="Antenne Réunion"  group-title="ESTERO: FRANCIA",Antenne Réunion
 http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
-#EXTINF:-1 tvg-id="Arte" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="",ARTE
+#EXTINF:-1, tvg-id="Arte" tvg-logo="https://i.imgur.com/xXRYZd6.png" tvg-name="ARTE"  group-title="ESTERO: FRANCIA",ARTE
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
+#EXTINF:-1, tvg-id="BFM Business FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-name="BFM Business"  group-title="ESTERO: FRANCIA",BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",BFM Grand Lille
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BFM Grand Lille"  group-title="ESTERO: FRANCIA",BFM Grand Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",BFM Grand Littoral
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BFM Grand Littoral"  group-title="ESTERO: FRANCIA",BFM Grand Littoral
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",BFM Lyon
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BFM Lyon"  group-title="ESTERO: FRANCIA",BFM Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="",BFM Paris
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-name="BFM Paris"  group-title="ESTERO: FRANCIA",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="",BFMTV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BFMTV"  group-title="ESTERO: FRANCIA",BFMTV
 https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="",BipTV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YFEqBS7.png" tvg-name="BipTV"  group-title="ESTERO: FRANCIA",BipTV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/600px-Ch%C3%A9rie_25_logo_2015.svg.png" group-title="",Chérie 25
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Ch%C3%A9rie_25_logo_2015.svg/600px-Ch%C3%A9rie_25_logo_2015.svg.png" tvg-name="Chérie 25"  group-title="ESTERO: FRANCIA",Chérie 25
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" group-title="",D5 TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cThInij.png" tvg-name="D5 TV"  group-title="ESTERO: FRANCIA",D5 TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="Music",DBM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBM"  group-title="ESTERO: FRANCIA",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="",Ere TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" tvg-name="Ere TV"  group-title="ESTERO: FRANCIA",Ere TV
 http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="News",Euronews
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="ESTERO: FRANCIA",Euronews
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-name="Fashion TV L'Original"  group-title="ESTERO: FRANCIA",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-name="Fashion TV L'Original"  group-title="ESTERO: FRANCIA",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/auHH1Ig.png" tvg-name="Fashion TV Midnite Secrets"  group-title="ESTERO: FRANCIA",Fashion TV Midnite Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-name="Fashion TV Paris"  group-title="ESTERO: FRANCIA",Fashion TV Paris
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-name="Fashion TV Paris"  group-title="ESTERO: FRANCIA",Fashion TV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/n6owIqv.png" tvg-name="Fashion TV PG13"  group-title="ESTERO: FRANCIA",Fashion TV PG13
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-name="Fashion TV PG16"  group-title="ESTERO: FRANCIA",Fashion TV PG16
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-name="Fashion TV PG16"  group-title="ESTERO: FRANCIA",Fashion TV PG16
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 Arabic"  group-title="ESTERO: FRANCIA",France 24 Arabic
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 Arabic"  group-title="ESTERO: FRANCIA",France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 English"  group-title="ESTERO: FRANCIA",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 English"  group-title="ESTERO: FRANCIA",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 English"  group-title="ESTERO: FRANCIA",France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-name="France 24 French"  group-title="ESTERO: FRANCIA",France 24 French
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="",France Info
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" tvg-name="France Info"  group-title="ESTERO: FRANCIA",France Info
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="",Francophonie
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/lvrvwtm.png" tvg-name="Francophonie"  group-title="ESTERO: FRANCIA",Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" group-title="",Grand Lille TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ZEA3az8.png" tvg-name="Grand Lille TV"  group-title="ESTERO: FRANCIA",Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Gulli" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="",Gulli
+#EXTINF:-1, tvg-id="Gulli" tvg-logo="https://i.imgur.com/mMWq0Kn.png" tvg-name="Gulli"  group-title="ESTERO: FRANCIA",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" group-title="",Holygod TV Europe & Middle East
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tzurFum.png" tvg-name="Holygod TV Europe & Middle East"  group-title="ESTERO: FRANCIA",Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="",ILTV
-https://str81.creacast.com/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="",KTO
+#EXTINF:-1, tvg-id="KTO FR" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" tvg-name="KTO"  group-title="ESTERO: FRANCIA",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
+#EXTINF:-1, tvg-id="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-name="La Chaine Normande TV"  group-title="ESTERO: FRANCIA",La Chaine Normande TV
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="Family",La Chaine Normande TV
+#EXTINF:-1, tvg-id="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" tvg-name="La Chaine Normande TV"  group-title="ESTERO: FRANCIA",La Chaine Normande TV
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="",LCI
+#EXTINF:-1, tvg-id="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" tvg-name="LCI"  group-title="ESTERO: FRANCIA",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/96FfLIj.jpg" group-title="Music",Lèeekô TV
-http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MCM Top
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" tvg-name="L'Equipe 21"  group-title="ESTERO: FRANCIA",L'Equipe 21
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MCM Top"  group-title="ESTERO: FRANCIA",MCM Top
 http://ott-cdn.ucom.am/s49/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="",MDL
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" tvg-name="MDL"  group-title="ESTERO: FRANCIA",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Mezzo
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mezzo"  group-title="ESTERO: FRANCIA",Mezzo
 http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Comedy",MYComedy
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" tvg-name="MYComedy"  group-title="ESTERO: FRANCIA",MYComedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/1200px-NRJ_12_logo_2015.svg.png" group-title="",NRJ12
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/1200px-NRJ_12_logo_2015.svg.png" tvg-name="NRJ12"  group-title="ESTERO: FRANCIA",NRJ12
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ONE GOLF
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ONE GOLF"  group-title="ESTERO: FRANCIA",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="",Radio Contact
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Billboard"  group-title="ESTERO: FRANCIA",Persiana Billboard
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Cinema"  group-title="ESTERO: FRANCIA",Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Comedy"  group-title="ESTERO: FRANCIA",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Documentary"  group-title="ESTERO: FRANCIA",Persiana Documentary
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Family"  group-title="ESTERO: FRANCIA",Persiana Family
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Iranian"  group-title="ESTERO: FRANCIA",Persiana Iranian
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Junior"  group-title="ESTERO: FRANCIA",Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Music"  group-title="ESTERO: FRANCIA",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Nostalgia"  group-title="ESTERO: FRANCIA",Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Persiana Technology"  group-title="ESTERO: FRANCIA",Persiana Technology
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ekRMtra.png" tvg-name="Radio Contact"  group-title="ESTERO: FRANCIA",Radio Contact
 https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="",RMC
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" tvg-name="RMC"  group-title="ESTERO: FRANCIA",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FVrOYXe.jpg" tvg-name="RMC Decouverte"  group-title="ESTERO: FRANCIA",RMC Decouverte
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gVedXRh.png" tvg-name="RT France"  group-title="ESTERO: FRANCIA",RT France
 https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="TF1 HD" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="",TF1
+#EXTINF:-1, tvg-id="TF1 HD" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-name="TF1"  group-title="ESTERO: FRANCIA",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live.m3u8
-#EXTINF:-1 tvg-id="TF1 Séries Films" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="",TF1 Séries Films
+#EXTINF:-1, tvg-id="TF1 Séries Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-name="TF1 Séries Films"  group-title="ESTERO: FRANCIA",TF1 Séries Films
 https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live.m3u8
-#EXTINF:-1 tvg-id="TFX" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="",TFX
+#EXTINF:-1, tvg-id="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-name="TFX"  group-title="ESTERO: FRANCIA",TFX
 https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live.m3u8
-#EXTINF:-1 tvg-id="TMC" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="",TMC
+#EXTINF:-1, tvg-id="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" tvg-name="TMC"  group-title="ESTERO: FRANCIA",TMC
 https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="",TV3V
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/05RMwlR.png" tvg-name="TV3V"  group-title="ESTERO: FRANCIA",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="",TV5 Style
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" tvg-name="TV5 Style"  group-title="ESTERO: FRANCIA",TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5Monde Info
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-name="TV5Monde Info"  group-title="ESTERO: FRANCIA",TV5Monde Info
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" group-title="",TV5Monde Pacifique
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png" tvg-name="TV5Monde Pacifique"  group-title="ESTERO: FRANCIA",TV5Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="",TV7 Colmar
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RuFISFk.png" tvg-name="TV7 Colmar"  group-title="ESTERO: FRANCIA",TV7 Colmar
 https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" group-title="Local",TV78
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" tvg-name="TV78"  group-title="ESTERO: FRANCIA",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="",TVPI
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RT3pz5L.png" tvg-name="TVPI"  group-title="ESTERO: FRANCIA",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvr.bzh/favicon-1024.png" group-title="Local",TVR
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvr.bzh/favicon-1024.png" tvg-name="TVR"  group-title="ESTERO: FRANCIA",TVR
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="",TZiK
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/6Iw1YRL.png" tvg-name="TZiK"  group-title="ESTERO: FRANCIA",TZiK
 https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="",viaMirabelle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MAtélé" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/kmna9PU.png" group-title="",viàMATÉLÉ
+#EXTINF:-1, tvg-id="MAtélé" tvg-logo="https://i.imgur.com/kmna9PU.png" tvg-name="viàMATÉLÉ"  group-title="ESTERO: FRANCIA",viàMATÉLÉ
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YXUMEbi.png" tvg-name="viaMirabelle"  group-title="ESTERO: FRANCIA",viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8

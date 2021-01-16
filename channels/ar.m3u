@@ -1,111 +1,256 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VuvGm3s.png" group-title="",13 Max
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/VuvGm3s.png" tvg-name="13 Max"  group-title="ESTERO: ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="",24/7 Canal de Noticias
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/6miysb8.png" tvg-name="24/7 Canal de Noticias"  group-title="ESTERO: ARGENTINA",24/7 Canal de Noticias
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTV Santa Fe
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" tvg-name="5RTV Santa Fe"  group-title="ESTERO: ARGENTINA",5RTV Santa Fe
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="",5RTV Santa Fe
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5RTV Santa Fe -2-"  group-title="ESTERO: ARGENTINA",5RTV Santa Fe -2-
 https://api.new.livestream.com/accounts/5RTvSF/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="",5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="",9 MULTIVISION HD
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Local",América Tucúman
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/kujnLsO.png" tvg-name="5TV Corrientes"  group-title="ESTERO: ARGENTINA",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aire de Santa Fe"  group-title="ESTERO: ARGENTINA",Aire de Santa Fe
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="América Tucúman"  group-title="ESTERO: ARGENTINA",América Tucúman
 http://45.6.4.50:50601/America_Tucuman/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="",Argentinísima Satelital
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" tvg-name="Argentinísima Satelital"  group-title="ESTERO: ARGENTINA",Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",BA Buenos Aires
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATB TV"  group-title="ESTERO: ARGENTINA",ATB TV
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BA Buenos Aires"  group-title="ESTERO: ARGENTINA",BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7hxHFa9.png" group-title="",BVC Bahia Blanca
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BVC Bahia Blanca"  group-title="ESTERO: ARGENTINA",BVC Bahia Blanca
 https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="",Canal 10 General Roca
-https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="",Canal 10 Rio Negro
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cadena Sudeste TV"  group-title="ESTERO: ARGENTINA",Cadena Sudeste TV
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 10 Entre Rios"  group-title="ESTERO: ARGENTINA",Canal 10 Entre Rios
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PE2Gi3N.png" tvg-name="Canal 10 General Roca"  group-title="ESTERO: ARGENTINA",Canal 10 General Roca
+https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" tvg-name="Canal 10 Rio Negro"  group-title="ESTERO: ARGENTINA",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="",Canal 17 Milenium Salta
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 12 Puerto Madryn"  group-title="ESTERO: ARGENTINA",Canal 12 Puerto Madryn
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 13 La Rioja"  group-title="ESTERO: ARGENTINA",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QX4vqEG.png" tvg-name="Canal 17 Milenium Salta"  group-title="ESTERO: ARGENTINA",Canal 17 Milenium Salta
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal 2 Misiones
-http://nd106.republicaservers.com/canal2misiones.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/B2lKSvo.png" group-title="",Canal 2 Telpin
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="",Canal 26
-http://200.115.193.177/live/26hd-180/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",Canal 26
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="News",Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="News",Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="",Canal 26
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="News",Canal 26
-https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="News",Canal 26
-https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="News",Canal 26
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 2 AVC Santa Teresita"  group-title="ESTERO: ARGENTINA",Canal 2 AVC Santa Teresita
+http://www.portaldelmar.tv/live/avc/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 2 Jujuy"  group-title="ESTERO: ARGENTINA",Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/broadcasts/178923837.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/B2lKSvo.png" tvg-name="Canal 2 Telpin"  group-title="ESTERO: ARGENTINA",Canal 2 Telpin
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 20 Villa Maria"  group-title="ESTERO: ARGENTINA",Canal 20 Villa Maria
+http://agtube.aldeaglobal.net.ar:8080/live/5bec4ef28bf42/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 26"  group-title="ESTERO: ARGENTINA",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal 3 La Pampa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-name="Canal 26 (HD 720P)"  group-title="ESTERO: ARGENTINA",Canal 26 (HD 720P)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 26 (SD 360P)"  group-title="ESTERO: ARGENTINA",Canal 26 (SD 360P)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 26 Buenos Aires (Opt-1)"  group-title="ESTERO: ARGENTINA",Canal 26 Buenos Aires (Opt-1)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 BA Buenos Aires"  group-title="ESTERO: ARGENTINA",Canal 3 BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 La Pampa"  group-title="ESTERO: ARGENTINA",Canal 3 La Pampa
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg" group-title="",Canal 4 San Juan
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 Pinamar"  group-title="ESTERO: ARGENTINA",Canal 3 Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 Pinamar"  group-title="ESTERO: ARGENTINA",Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 Pinamar"  group-title="ESTERO: ARGENTINA",Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 3 Rosario"  group-title="ESTERO: ARGENTINA",Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 Balcarce"  group-title="ESTERO: ARGENTINA",Canal 4 Balcarce
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 Jujuy"  group-title="ESTERO: ARGENTINA",Canal 4 Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 Jujuy"  group-title="ESTERO: ARGENTINA",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/chunklist_w621402693.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 Posadas"  group-title="ESTERO: ARGENTINA",Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 San Juan"  group-title="ESTERO: ARGENTINA",Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg" tvg-name="Canal 4 San Juan"  group-title="ESTERO: ARGENTINA",Canal 4 San Juan
 https://streamyes.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xmK4QpL.png" group-title="",Canal 79 Mar del Plata
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 Concepcion Tucuman"  group-title="ESTERO: ARGENTINA",Canal 5 Concepcion Tucuman
+http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 Telesol"  group-title="ESTERO: ARGENTINA",Canal 5 Telesol
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 Tigre"  group-title="ESTERO: ARGENTINA",Canal 5 Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 6 Noticias"  group-title="ESTERO: ARGENTINA",Canal 6 Noticias
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 7 Catamarca"  group-title="ESTERO: ARGENTINA",Canal 7 Catamarca
+https://59d52c5a5ce5e.streamlock.net:4443/ctv/ctv/chunklist_w248825613.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 7 Jujuy"  group-title="ESTERO: ARGENTINA",Canal 7 Jujuy
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 7 Santiago del Estero"  group-title="ESTERO: ARGENTINA",Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 79 Mar del Plata"  group-title="ESTERO: ARGENTINA",Canal 79 Mar del Plata
 https://streamconex.com:1936/mardelplata/mardelplata/chunklist_w56484596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Local",Canal 9 Televida Mendoza
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Bio Bio TV"  group-title="ESTERO: ARGENTINA",Canal 9 Bio Bio TV
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Comodoro Rivadavia"  group-title="ESTERO: ARGENTINA",Canal 9 Comodoro Rivadavia
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Litoral"  group-title="ESTERO: ARGENTINA",Canal 9 Litoral
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Litoral Parana"  group-title="ESTERO: ARGENTINA",Canal 9 Litoral Parana
+https://5975e06a1f292.streamlock.net:4443/c9web/ngrp:c9web_all/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Salta"  group-title="ESTERO: ARGENTINA",Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Televida Mendoza"  group-title="ESTERO: ARGENTINA",Canal 9 Televida Mendoza
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OTyIxNK.jpg" group-title="",Canal Acequia
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OTyIxNK.jpg" tvg-name="Canal Acequia"  group-title="ESTERO: ARGENTINA",Canal Acequia
 https://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",CANAL PROVINCIAL SAN MIGUEL
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Coop Jesus Maria"  group-title="ESTERO: ARGENTINA",Canal Coop Jesus Maria
+rtmp://190.122.75.19:1936/live/Canal602
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal de Noticias 24/7"  group-title="ESTERO: ARGENTINA",Canal de Noticias 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Local Olavarria"  group-title="ESTERO: ARGENTINA",Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Provincial San Miguel"  group-title="ESTERO: ARGENTINA",Canal Provincial San Miguel
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="",Chaco TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1504807357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="",Chacra TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PROVINCIAL SAN MIGUEL"  group-title="ESTERO: ARGENTINA",CANAL PROVINCIAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/JbxMs5i.png" tvg-name="Chaco TV"  group-title="ESTERO: ARGENTINA",Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Chacra TV"  group-title="ESTERO: ARGENTINA",Chacra TV
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Chacra TV"  group-title="ESTERO: ARGENTINA",Chacra TV
+http://server5.stweb.tv/chacra/ngrp:live_all/chunklist_w119888637_b346000.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" tvg-name="Chacra TV"  group-title="ESTERO: ARGENTINA",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="",Ciudad TV Chaco
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ciudad TV Chaco"  group-title="ESTERO: ARGENTINA",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" tvg-name="Ciudad TV Resistencia (Chaco)"  group-title="ESTERO: ARGENTINA",Ciudad TV Resistencia (Chaco)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/75UgF.png" group-title="",CPEtv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CL3"  group-title="ESTERO: ARGENTINA",CL3
+http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CN 24/7"  group-title="ESTERO: ARGENTINA",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Conexion Abierta"  group-title="ESTERO: ARGENTINA",Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CPE TV"  group-title="ESTERO: ARGENTINA",CPE TV
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/75UgF.png" tvg-name="CPEtv"  group-title="ESTERO: ARGENTINA",CPEtv
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgVCgbw.jpg" group-title="",El Garage
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Depor TV"  group-title="ESTERO: ARGENTINA",Depor TV
+https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desierto TV"  group-title="ESTERO: ARGENTINA",Desierto TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eco TV Tandil"  group-title="ESTERO: ARGENTINA",Eco TV Tandil
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El 1 Web TV La Matanza"  group-title="ESTERO: ARGENTINA",El 1 Web TV La Matanza
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El Garage"  group-title="ESTERO: ARGENTINA",El Garage
 http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="",Fenix TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El TV10 Salta"  group-title="ESTERO: ARGENTINA",El TV10 Salta
+https://59c5c86e10038.streamlock.net/8098/8098/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Encuentro"  group-title="ESTERO: ARGENTINA",Encuentro
+https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" tvg-name="Fenix TV (Ciudad de La Rioja)"  group-title="ESTERO: ARGENTINA",Fenix TV (Ciudad de La Rioja)
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2XhjIqS.png" group-title="",Frecuencia Musical TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Frecuencia Musical TV"  group-title="ESTERO: ARGENTINA",Frecuencia Musical TV
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="",Garage TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-name="Garage TV"  group-title="ESTERO: ARGENTINA",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pRbp0eZ.png" group-title="",LA 90 FM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Holvoet TV"  group-title="ESTERO: ARGENTINA",Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Inforbahia Bahia Blanca"  group-title="ESTERO: ARGENTINA",Inforbahia Bahia Blanca
+http://173.236.10.10:1935/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/pRbp0eZ.png" tvg-name="LA 90 FM"  group-title="ESTERO: ARGENTINA",LA 90 FM
 http://streaming02.arcast.com.ar:1935/la90fm/la90fm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LHtd9oT.png" group-title="",Multivision Argentina
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Litus TV Santa Fe"  group-title="ESTERO: ARGENTINA",Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Medios Rioja"  group-title="ESTERO: ARGENTINA",Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Multivisión"  group-title="ESTERO: ARGENTINA",Multivisión
+http://panel.dattalive.com:1935/8250/8250/chunklist_w2099432844.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LHtd9oT.png" tvg-name="Multivision Argentina"  group-title="ESTERO: ARGENTINA",Multivision Argentina
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
-https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
-https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music TOP
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Top"  group-title="ESTERO: ARGENTINA",Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-name="Music Top (Adaptive)"  group-title="ESTERO: ARGENTINA",Music Top (Adaptive)
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="",Net TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-name="Music Top (HD 720P)"  group-title="ESTERO: ARGENTINA",Music Top (HD 720P)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/J7stpmb.png" tvg-name="Net TV"  group-title="ESTERO: ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="",RTN Neuquén
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Net TV"  group-title="ESTERO: ARGENTINA",Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="ESTERO: ARGENTINA",NET TV
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pakapaka"  group-title="ESTERO: ARGENTINA",Pakapaka
+https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pinamar 24 TV"  group-title="ESTERO: ARGENTINA",Pinamar 24 TV
+http://stream.shockmedia.com.ar:1935/9352/9352/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pinguino TV"  group-title="ESTERO: ARGENTINA",Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Power HD"  group-title="ESTERO: ARGENTINA",Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio del Aire 89.5 FM La Plata"  group-title="ESTERO: ARGENTINA",Radio del Aire 89.5 FM La Plata
+http://streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio Sur 105.1 FM Berisso"  group-title="ESTERO: ARGENTINA",Radio Sur 105.1 FM Berisso
+http://video1.veemesoft.com.ar:1935/8436/8436/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio TV Neuquen"  group-title="ESTERO: ARGENTINA",Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/daMqavf.jpg" tvg-name="RTN Neuquén"  group-title="ESTERO: ARGENTINA",RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="",T5 Satelital
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Santa Maria TV"  group-title="ESTERO: ARGENTINA",Santa Maria TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Soy Rock"  group-title="ESTERO: ARGENTINA",Soy Rock
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" tvg-name="T5 Satelital"  group-title="ESTERO: ARGENTINA",T5 Satelital
 https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Local",Telefe Rosario
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",Telemax
-https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byxXHzq.png" group-title="",TeleNord Corrientes
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FscV0as.png" group-title="",Tierramia TV
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="",TLX
-https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Local",TSN Necochea
-https://59c5c86e10038.streamlock.net/8130/8130/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="",TV Maná Córdoba
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="",Télam 4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="T5 Satelital"  group-title="ESTERO: ARGENTINA",T5 Satelital
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TDF"  group-title="ESTERO: ARGENTINA",TDF
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tec TV"  group-title="ESTERO: ARGENTINA",Tec TV
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough/tectv_1/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Télam 4"  group-title="ESTERO: ARGENTINA",Télam 4
 http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telefe Rosario"  group-title="ESTERO: ARGENTINA",Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleJunin"  group-title="ESTERO: ARGENTINA",TeleJunin
+http://stream02.shockmedia.com.ar:1935/telejunin/telejunin/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemax"  group-title="ESTERO: ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1XgRcmd.png" tvg-name="Telemax (HD 720P)"  group-title="ESTERO: ARGENTINA",Telemax (HD 720P)
+https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemax -2-"  group-title="ESTERO: ARGENTINA",Telemax -2-
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/byxXHzq.png" tvg-name="TeleNord Corrientes"  group-title="ESTERO: ARGENTINA",TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telered"  group-title="ESTERO: ARGENTINA",Telered
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Televisora Regional Unimar"  group-title="ESTERO: ARGENTINA",Televisora Regional Unimar
+https://59c5c86e10038.streamlock.net/95621330/95621330/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telpin Teve Pinamar"  group-title="ESTERO: ARGENTINA",Telpin Teve Pinamar
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tierramia TV"  group-title="ESTERO: ARGENTINA",Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FscV0as.png" tvg-name="Tierramia TV"  group-title="ESTERO: ARGENTINA",Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TSN Necochea"  group-title="ESTERO: ARGENTINA",TSN Necochea
+https://59c5c86e10038.streamlock.net/8130/8130/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Maná 1"  group-title="ESTERO: ARGENTINA",TV Maná 1
+http://195.22.11.11:1935/tvmana/tvmana1/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Maná Argentin"  group-title="ESTERO: ARGENTINA",TV Maná Argentin
+rtmp://streamspub.manasat.com/tvar/tvmanaar1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" tvg-name="TV Maná Córdoba"  group-title="ESTERO: ARGENTINA",TV Maná Córdoba
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVM Misiones"  group-title="ESTERO: ARGENTINA",TVM Misiones
+http://stream2.livestreamingservices.com:1935/tvmlive/tvmlive/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Canal 27"  group-title="ESTERO: ARGENTINA",TVN Canal 27
+https://5b3050bb1b2d8.streamlock.net/tvmlive/tvmlive/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UniRioTV"  group-title="ESTERO: ARGENTINA",UniRioTV
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w382997042.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Urban 106.1 FM Pehuajo"  group-title="ESTERO: ARGENTINA",Urban 106.1 FM Pehuajo
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UTNtv Rio Gallegos"  group-title="ESTERO: ARGENTINA",UTNtv Rio Gallegos
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
