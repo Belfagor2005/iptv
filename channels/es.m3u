@@ -1,147 +1,651 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="News",24 Horas
+#EXTM3U
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SvUWRQm.png" group-title="ESTERO,24 Horas
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="News",324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" group-title="ESTERO,324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local",7 Murcia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="ESTERO,7 Murcia
 https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/InD2uAT.png" group-title="Local",Alacantí TV
-http://5.39.65.105/hls/alacantixa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="",Alcarria TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="ESTERO,Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="",Aragón TV
+#EXTINF:-1 tvg-id="Aragón TV Int" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="ESTERO,Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="BE MAD" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/280px-Be_Mad_TV.svg.png" group-title="",Be Mad
-https://pastebin.com/raw/jf3NxqPs
-#EXTINF:-1 tvg-id="Boing" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" group-title="",Boing
-https://pastebin.com/raw/afgk7wAC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="",Bon Dia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" group-title="ESTERO,Bon Dia TV
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AFT43kx.png" group-title="ESTERO,Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="",Canal 25 Barbastro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="ESTERO,Canal 25 Barbastro
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="",Canal 33 Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="ESTERO,Canal 33 Madrid
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="",Canal 4 Mancha Centro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="ESTERO,Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="Local",Canal d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aoyHRgJ.jpg" group-title="ESTERO,Canal d
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="Local",Canal Málaga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BXmmroM.jpg" group-title="ESTERO,Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="",Canal Parlamento
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U842Z2c.png" group-title="ESTERO,Canal Parlamento
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="",Condavision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Btnzf1m.png" group-title="ESTERO,Condavision
 http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
-#EXTINF:-1 tvg-id="Cuatro" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/320px-Cuatro.svg.png" group-title="",Cuatro
-https://pastebin.com/raw/nUFDnkws
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="Local",Distrito TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" group-title="ESTERO,Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OwsmMWu.png" group-title="General",Divinity
-https://pastebin.com/raw/DdABja2w
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="Local",EITB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BU8zXRW.jpg" group-title="ESTERO,EITB
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="",El Sembrador TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/VbxfLY5.png" group-title="ESTERO,El Sembrador TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
-#EXTINF:-1 tvg-id="Energy" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" group-title="",Energy
-https://pastebin.com/raw/AXvzQiid
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Sport",Esport Club
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="ESTERO,Esport Club
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="",Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KeBXBJE.png" group-title="Local",ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYkOBKP.png" group-title="Local",ETB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/247px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="",FDF
-https://pastebin.com/raw/WDb2J2pN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="",Hamaika Telebista
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="ESTERO,Hamaika Telebista
 https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="",Huesca TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hmYDqGV.png" group-title="ESTERO,Huesca TV
 https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="",Interalmeria TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u0lyhFX.png" group-title="ESTERO,Interalmeria TV
 https://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1 tvg-id="La1.TV" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="",La 1
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="LA 1 ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0mGTdcg.png" group-title="ESTERO,La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La2.TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Documentary",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="ESTERO,La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="Entertainment",La Voz 24h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp26cr1.jpg" group-title="ESTERO,La Voz 24h
 https://pull12.atresmedia.com/lavoz/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="",Lebrija TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oe66woA.png" group-title="ESTERO,Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1UqvCPC.png" group-title="",Los 40
-https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WhfpLWM.png" group-title="News",Mas 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WhfpLWM.png" group-title="ESTERO,Mas 24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="",mtmad 24h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I9QX555.png" group-title="ESTERO,mtmad 24h
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UWxPjxV.jpg" group-title="",Onda Cádiz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UWxPjxV.jpg" group-title="ESTERO,Onda Cádiz
 https://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BA6HVt3.png" group-title="",Onda Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BA6HVt3.png" group-title="ESTERO,Onda Madrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="Local",Popular TV Melilla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="ESTERO,Pequeradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="ESTERO,Popular TV Melilla
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hjdrfgi.png" group-title="",PTV Cordoba
-http://149.91.98.146:1935/cordoba/stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gh5VQtG.jpg" group-title="",Radio Onda Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gh5VQtG.jpg" group-title="ESTERO,Radio Onda Madrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="Sport",Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" group-title="ESTERO,Real Madrid
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="ESTERO,Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport",Real Madrid TV
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESTERO,Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/o8EtLad.png" group-title="Local",RiberaTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/o8EtLad.png" group-title="ESTERO,RiberaTV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j73rLdT.png" group-title="",RTPA Asturias
-https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v0ndTEX.png" group-title="Local",RTVCE
-http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/v0ndTEX.png" group-title="Local",RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="ESTERO,Sophia TV
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OgEeQzl.jpg" group-title="Religious",Taroteame TV
 http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="Local",Telearanda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="ESTERO,Telearanda
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 tvg-id="Telecinco" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/246px-Telecinco.svg.png" group-title="",Telecinco
-https://pastebin.com/raw/455ygZ6Y
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="Local",TeleSafor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/UJrapXK.jpg" group-title="ESTERO,TeleSafor
 https://video.telesafor.com/hls/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="Local",Televisio Girona
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" group-title="ESTERO,Televisio Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",Televisión de Galicia América
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="TV Galicia ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="General",Televisión de Galicia Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0AssUlj.jpg" group-title="Local",TPA 7
-https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="Local",Trebujena TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="ESTERO,Trebujena TV
 https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
-#EXTINF:-1 tvg-id="13 TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" group-title="",Trece
+#EXTINF:-1 tvg-id="13 TV" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png" group-title="ESTERO,Trece
 https://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="",TV Municipal Cordoba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="ESTERO,TV Municipal Cordoba
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
-#EXTINF:-1 tvg-id="TV3.TV" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="",TV3 Catalunya
+#EXTINF:-1 tvg-id="TV3.TV" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" group-title="ESTERO,TV3 Catalunya
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="Local",TVG 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="ESTERO,TVG 2
 https://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="",TVG América
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/YAnSTc6.jpg" group-title="ESTERO,TVG América
 https://america-crtvg.flumotion.com/crtvg/america_high/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Cultural
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="ESTERO,TVG Cultural
 https://cultural-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="",TVG Evento 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="ESTERO,TVG Evento 1
 https://events1-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Infantil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="ESTERO,TVG Infantil
 https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="Local",TVG Momento
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/QkhxAuY.png" group-title="ESTERO,TVG Momento
 https://momentog-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Local",TVG Musigal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Galician" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="ESTERO,TVG Musigal
 https://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" group-title="",Urban Revolution TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://imgur.com/eEoRNnt.png" group-title="ESTERO,Urban Revolution TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="",Urola Telebista
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w83wr1S.png" group-title="ESTERO,Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
 #EXTINF:-1 tvg-id="APUNT.TV" tvg-name="" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="General",À Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",13 Tv
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",13TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",24 Horas (Opt-1)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",24 Horas (Opt-2)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",24 Horas (Opt-3)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",24 Horas (Opt-4)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",3/24 (Opt-1)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",3/24 (Opt-2)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",3/24 (Opt-3)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",5tv Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Alacanti TV
+http://5.39.65.105/hls/alacantixa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Alcarria TV (Opt-1)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Be Mad (Opt-1)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Be Mad (Opt-2)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Betev
+http://cdnapi.kaltura.com/p/2346171//sp//234617100//playManifest//entryId//1_n6442jz0//protocol//http//format//applehttp//a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Bhtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Boing (Opt-1)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Boing (Opt-2)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Bon Dia TV (Opt-1)
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Bon Dia TV (Opt-2)
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:bnd_web/master_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cadena Elite
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 25 Barbastro
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 4 Tenerife (Opt-1)
+http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 4 Tenerife (Opt-2)
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 8 Mendoza
+http://stream02.shockmedia.com.ar:1935/canal2tunuyan/canal2tunuyan/chunklist_w1408580151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Extremadura (Opt-1)
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Extremadura (Opt-2)
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Extremadura (Opt-3)
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal M?ga (Opt-1)
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal M?ga (Opt-2)
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal M?ga (Opt-3)
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Parlament
+http://cdn.s6.eu.nice264.com:1935/niceLiveServer/pcatlive_canal1_MB_800/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal San Roque
+http://common01.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Andalucia
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Cocina (Opt-1)
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Cocina (Opt-2)
+http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Cocina (Opt-3)
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Cocina (Opt-4)
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Eventos 1
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Flamenco (Opt-1)
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Flamenco (Opt-2)
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur La Banda (Opt-1)
+http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur La Banda (Opt-2)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur La Banda (Opt-3)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur La Banda (Opt-4)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur La Banda (Opt-5)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w1970326303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Turismo (Opt-1)
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Sur Turismo (Opt-2)
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Taronja Osona
+http://ventdelnord.tv:8080/taronja/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Terrassa (Opt-1)
+http://5.189.181.203:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Terrassa (Opt-2)
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Vasco Esp
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canal Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canalcosta TV (Opt-1)
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Canalcosta TV (Opt-2)
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTVC net Canarias (CN)
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Can? Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Carolina Tv
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",8TV Catalu??CT)
+http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",C33 Catalu??CT)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 Catalu??CT)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",324 Catalu??CT)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cbs News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",CCMA Exclusiu 1
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca1_web/master_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTV Ceuta Ceuta (CE)
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cloudtrend Service
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cnt Tv
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w319975176_b1564000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Condavision
+http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ctc Tv
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cuatro (Opt-1)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Cuatro (Opt-2)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",CYL TV Castilla Leon
+http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Divinity (Opt-1)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Divinity (Opt-2)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Divinity (Opt-3)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Dubbi Kids
+https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Dw
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Dw
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",DW LATINO
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Dxtv
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ecija Comarca TV
+http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",EITB (Opt-1)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",EITB (Opt-2)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",EITB (Opt-3)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",EITB (Opt-4)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El 33 (Opt-1)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El 33 (Opt-2)
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El 33 (Opt-3)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El Correo de Andalucia
+http://common01.todostreaming.es/live/elcorreotv-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El Pinguino
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El Pinguino Hd
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",El Pinguino Tv
+http://streaming.elpinguino.com:1935/live/pinguinotv_160p/chunklist_w1729926410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Emporda Tv
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Energy (Opt-1)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Energy (Opt-2)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ESport3 (Opt-1)
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ESport3 (Opt-2)
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ESport3 (Opt-3)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Estepona TV
+https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Estetv
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Etb
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ETB 1 (Opt-1)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ETB 1 (Opt-2)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ETB 2 (Opt-1)
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",ETB 2 (Opt-2)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",C. Extremadura Extramadura (EX)
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Extrema Tv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",FDF (Opt-1)
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",FDF (Opt-2)
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Europa Galicia (GA)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG America Galicia (GA)
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Galicia TV Am?ca
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Gigante TV
+http://85.214.130.95:8080/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",GITB
+https://5940924978228.streamlock.net/8155/8155/chunklist_w707917731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Globo Tv Honduras
+http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Hamaika Telebista
+http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Huesca TV
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Identidad Peruana (infantil)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Interalmeria TV
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Intereconomia TV
+https://play.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ip
+http://bit.ly/2CHy4fM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Kkrtv
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",La 7 Castilla (Opt-1)
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",La 7 Castilla (Opt-2)
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/cyl_aaf8301a8e99d2acb611ceca62441ec5/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",La 7 TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Lancelot TV (Opt-1)
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Lancelot TV (Opt-2)
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Lancelot TV (Opt-3)
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w350778724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Levante Tv
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Logos Tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Los 40
+https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Mas 24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Mc Play Tv
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Melilla TV
+http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Mijas 3.40 TV
+http://mijas.hls.flumotion.com/mijas/live-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Monterrico
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",mtmad 24h (Opt-1)
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",mtmad 24h (Opt-2)
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Nex Tv Hd
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Nextv | Sd
+http://198.1.117.5:1935/live/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Onda Madrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Onda Tv Sto Dgo
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w440868265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",One
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Orbit Tv
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Oromar TV
+http://bit.ly/2FdyIUd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Eitb P.Vasco (PV)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Paramount Channel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Pat
+http://192.99.38.174:1935/patbolivia/patsantacruz/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Peru 7.3
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Popular TV Melilla (Opt-1)
+https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Popular TV Melilla (Opt-2)
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Radio Onda Madrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ready Tv Canal 6
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (English) (Opt-1)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (English) (Opt-2)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-1)
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-2)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-3)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-4)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-5)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Real Madrid TV (Opt-6)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w170075426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RiberaTV
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTPA Asturias
+https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTVCE (Opt-1)
+http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTVCE (Opt-2)
+http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTVCE (Opt-3)
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",RTVE
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Sbt Pi
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Senal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Sophia TV
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Super3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Taroteame TV
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TBN Espa
+http://wowzaprod161-i.akamaihd.net/hls/live/598486/e049734e/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tele Red Television
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telecentro
+http://stream.grupotelemicro.com/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telecinco (Opt-1)
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telecinco (Opt-2)
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Teleenvigado
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telemilenio Santiago Chile
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Teleonuba
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Teleoro Pr
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TeleRed (CR)
+http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w678113091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TeleSafor (Opt-1)
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TeleSafor (Opt-2)
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TeleSUR (CR)
+http://k3.usastreams.com/telesur/telesur/chunklist_w1240568243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Televalencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telever
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Televisio Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Telpin HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Terrassa TV
+http://cast.streamingconnect.tv:1935/terrassaweb/terrassaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ticavision Costa Rica
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tirol Tv
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tnt Hd
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Toreon Mexico
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TPA 7
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Travel Hd
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TRECE
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tv Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tv Cosmos Peru
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV Galicia (Opt-1)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV Galicia (Opt-2)
+http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV Galicia 2
+http://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV Hellin
+http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV Municipal Cordoba
+http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tv Peru
+http://cdnh15.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-1)
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-2)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-3)
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-4)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-5)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-6)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TV3 (Opt-7)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG 2 (Opt-1)
+http://events3-crtvg.flumotion.com/crtvg/events3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG 2 (Opt-2)
+http://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG 2 (Opt-3)
+http://events3-crtvg.flumotion.com/crtvg/events3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Cultural (Opt-1)
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Cultural (Opt-2)
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Evento 1
+http://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Infantil (Opt-1)
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Infantil (Opt-2)
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Momento
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Musigal (Opt-1)
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",TVG Musigal (Opt-2)
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Tvpi
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ucsg Tv
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Ucv
+http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Uestv
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Umag Tv
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Umag Tv
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Umag Tv 2
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w113064100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Urola Telebista
+https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Valle Tv De Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" group-title="ESTERO: SPAGNA",Wow Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8

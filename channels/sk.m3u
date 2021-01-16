@@ -1,61 +1,92 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hgdR9cp.png" group-title="",BTV
-rtmp://s1.media-planet.sk:80/live/bardejov1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hrhfs9p.png" group-title="Fashion",FashionTV Czech&Slovak
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hrhfs9p.png" tvg-name="FashionTV Czech&Slovak"  group-title="ESTERO: SLOVACCHIA",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="",JOJ
-https://nn.geo.joj.sk/hls/joj-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wKJpGke.jpg" group-title="",JOJ
-https://nn.geo.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wKJpGke.jpg" group-title="",JOJ
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wKJpGke.jpg" tvg-name="JOJ"  group-title="ESTERO: SLOVACCHIA",JOJ
 https://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
-https://nn.geo.joj.sk/hls/family-360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-name="JOJ"  group-title="ESTERO: SLOVACCHIA",JOJ
+https://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wKJpGke.jpg" tvg-name="JOJ"  group-title="ESTERO: SLOVACCHIA",JOJ
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ (Opt-1)"  group-title="ESTERO: SLOVACCHIA",JOJ (Opt-1)
+http://nn1.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ (Opt-2)"  group-title="ESTERO: SLOVACCHIA",JOJ (Opt-2)
+http://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ (Opt-3)"  group-title="ESTERO: SLOVACCHIA",JOJ (Opt-3)
+http://nn.geo.joj.sk/hls/joj-720.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-name="JOJ Family"  group-title="ESTERO: SLOVACCHIA",JOJ Family
 https://nn.geo.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-name="JOJ Family"  group-title="ESTERO: SLOVACCHIA",JOJ Family
 https://nn2.joj.sk/hls/family-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="",Košice:dnes
-http://213.81.153.221:8080/nasa
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" group-title="",Košice:dnes
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-name="JOJ Family"  group-title="ESTERO: SLOVACCHIA",JOJ Family
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ Family (Opt-2)"  group-title="ESTERO: SLOVACCHIA",JOJ Family (Opt-2)
+http://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ Family (Opt-3)"  group-title="ESTERO: SLOVACCHIA",JOJ Family (Opt-3)
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ Family (Opt-4)"  group-title="ESTERO: SLOVACCHIA",JOJ Family (Opt-4)
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JOJ Tv Slovakia"  group-title="ESTERO: SLOVACCHIA",JOJ Tv Slovakia
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" tvg-name="Košice:dnes"  group-title="ESTERO: SLOVACCHIA",Košice:dnes
 http://lb.streaming.sk/tvnasa/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" group-title="",Life.tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ypZ4H5m.jpg" tvg-name="Košice:dnes"  group-title="ESTERO: SLOVACCHIA",Košice:dnes
+http://213.81.153.221:8080/nasa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Rvy8Wdu.png" tvg-name="Life.tv"  group-title="ESTERO: SLOVACCHIA",Life.tv
 http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/zaemQoz.png" group-title="",LocAll
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zaemQoz.png" tvg-name="LocAll"  group-title="ESTERO: SLOVACCHIA",LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/1hKwMpt.png" group-title="",Plus
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lux Televizia Slovakia"  group-title="ESTERO: SLOVACCHIA",Lux Televizia Slovakia
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w363529960.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Markiza"  group-title="ESTERO: SLOVACCHIA",Markiza
+http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Orange Sport (Opt-2)"  group-title="ESTERO: SLOVACCHIA",Orange Sport (Opt-2)
+http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1hKwMpt.png" tvg-name="Plus"  group-title="ESTERO: SLOVACCHIA",Plus
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" group-title="",Raj TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Plus (Opt-2)"  group-title="ESTERO: SLOVACCHIA",Plus (Opt-2)
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GKBwOFF.jpg" tvg-name="Raj TV"  group-title="ESTERO: SLOVACCHIA",Raj TV
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" group-title="",Senzi TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Raj TV"  group-title="ESTERO: SLOVACCHIA",Raj TV
+http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RIK Tv Slovakia"  group-title="ESTERO: SLOVACCHIA",RIK Tv Slovakia
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3w4SA3V.jpg" tvg-name="Senzi TV"  group-title="ESTERO: SLOVACCHIA",Senzi TV
 http://109.74.144.130/live/senzitest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/vtI89AA.png" group-title="",Severka
-rtmp://s1.media-planet.sk:80/liverepeater/zilina1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/JeiED2h.jpg" group-title="",Televizia OSEM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Senzi TV (Opt-2)"  group-title="ESTERO: SLOVACCHIA",Senzi TV (Opt-2)
+http://109.74.144.130/live/senzitest/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/JeiED2h.jpg" tvg-name="Televizia OSEM"  group-title="ESTERO: SLOVACCHIA",Televizia OSEM
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/JeiED2h.jpg" group-title="",Televízia OSEM
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/JeiED2h.jpg" tvg-name="Televízia OSEM"  group-title="ESTERO: SLOVACCHIA",Televízia OSEM
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hAIInW2.png" group-title="",TV KREA Galanta
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Televizia OSEM (Opt-2)"  group-title="ESTERO: SLOVACCHIA",Televizia OSEM (Opt-2)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Televízia OSEM (Opt-3)"  group-title="ESTERO: SLOVACCHIA",Televízia OSEM (Opt-3)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hAIInW2.png" tvg-name="TV KREA Galanta"  group-title="ESTERO: SLOVACCHIA",TV KREA Galanta
 http://213.81.153.221:8080/galanta
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" group-title="",TV Lux
-http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" group-title="",TV Lux
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" tvg-name="TV Lux"  group-title="ESTERO: SLOVACCHIA",TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/k4IK5OS.png" group-title="",TV Nové Zámky
-http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/k4IK5OS.png" group-title="",TV Nové Zámky
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/QQK4sJs.jpg" tvg-name="TV Lux"  group-title="ESTERO: SLOVACCHIA",TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Lux (Opt-2)"  group-title="ESTERO: SLOVACCHIA",TV Lux (Opt-2)
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Nitricka (Opt-1)"  group-title="ESTERO: SLOVACCHIA",TV Nitricka (Opt-1)
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Nitricka (Opt-2)"  group-title="ESTERO: SLOVACCHIA",TV Nitricka (Opt-2)
+http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/k4IK5OS.png" tvg-name="TV Nové Zámky"  group-title="ESTERO: SLOVACCHIA",TV Nové Zámky
 http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/k4IK5OS.png" group-title="",TV Nové Zámky
-rtmp://s1.media-planet.sk:80/live/novezamky
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/3cEG19H.jpg" group-title="",TV Povazie
-http://213.181.128.248:8090/tvpovazie-h264.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/gBMtpOS.png" group-title="",TV Reduta
-rtmp://s1.media-planet.sk:80/live/reduta
-#EXTINF:-1 tvg-id="" tvg-name="TV Ružinov" tvg-language="Slovak" tvg-logo="https://i.imgur.com/wmkg1FG.png" group-title="",TV Ružinov
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wmkg1FG.png" tvg-name="TV Ružinov"  group-title="ESTERO: SLOVACCHIA",TV Ružinov
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/WsDAqKc.png" group-title="",TV Turzovka
-rtmp://s1.media-planet.sk:80/live/turzovka
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" group-title="",Wau TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVNZ"  group-title="ESTERO: SLOVACCHIA",TVNZ
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" tvg-name="Wau TV"  group-title="ESTERO: SLOVACCHIA",Wau TV
 https://nn.geo.joj.sk/hls/wau-540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" group-title="",Wau TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/nRDWpNs.jpg" tvg-name="Wau TV"  group-title="ESTERO: SLOVACCHIA",Wau TV
 https://nn.geo.joj.sk/live/wau-index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Wau TV (Opt-1)"  group-title="ESTERO: SLOVACCHIA",Wau TV (Opt-1)
+https://nn.geo.joj.sk/live/wau-index.m3u8?
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WAU Tv Slovakia"  group-title="ESTERO: SLOVACCHIA",WAU Tv Slovakia
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
