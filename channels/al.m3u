@@ -1,38 +1,21 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="--- ALBANIA ---"  group-title="ESTERO: ALBANIA",--- ALBANIA ---
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" tvg-name="ABC News"  group-title="ESTERO: ALBANIA",ABC News
 http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gRvEH4v.png" tvg-name="AlbUK TV"  group-title="ESTERO: ALBANIA",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png" tvg-name="Apollon TV"  group-title="ESTERO: ALBANIA",Apollon TV
 http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Elektrika Tv"  group-title="ESTERO: ALBANIA",Elektrika Tv
-rtmp://rtmp.elektrika.cz/live/myStream.sdp
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Q1UOlkA.png" tvg-name="EUROAL"  group-title="ESTERO: ALBANIA",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hronka"  group-title="ESTERO: ALBANIA",Hronka
 http://213.81.153.221:8080/hronka
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kezmarok"  group-title="ESTERO: ALBANIA",Kezmarok
-http://213.81.153.221:8080/kezmarok#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AJ472ot.png" tvg-name="Koha TV"  group-title="ESTERO: ALBANIA",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
+http://213.81.153.221:8080/kezmarok
 #EXTINF:-1, tvg-id="News 24 AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" tvg-name="News 24"  group-title="ESTERO: ALBANIA",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="ESTERO: ALBANIA",News 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novi Sad 1"  group-title="ESTERO: ALBANIA",Novi Sad 1
-rtsp://212.200.255.151/rtv1
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novi Sad 2"  group-title="ESTERO: ALBANIA",Novi Sad 2
-rtsp://212.200.255.151/rtv2
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GAx0LDU.png" tvg-name="Ora"  group-title="ESTERO: ALBANIA",Ora
-https://tv.oranews.tv/live/ora/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GAx0LDU.png" tvg-name="Ora News"  group-title="ESTERO: ALBANIA",Ora News
-https://tv.oranews.tv/live/oranews/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-name="Peace TV"  group-title="ESTERO: ALBANIA",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Report TV"  group-title="ESTERO: ALBANIA",Report TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rrokum TV"  group-title="ESTERO: ALBANIA",Rrokum TV
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 1 Kosovo"  group-title="ESTERO: ALBANIA",RTK 1 Kosovo
