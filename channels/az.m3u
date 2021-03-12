@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+<<<<<<< HEAD
 #EXTINF:-1 tvg-id="ARB.az" tvg-name="ARB" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" group-title="General",ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="News",ARB 24
@@ -23,3 +24,29 @@ http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 https://node19.connect.az:8086/ch1/ch1.hi.m3u8
 #EXTINF:-1 tvg-id="ITV.az" tvg-name="ITV" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ii/ictimai-tv-az.png" group-title="",İctimai TV
 https://node19.connect.az:8086/ch1/ch1.med.m3u8
+=======
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" group-title="ESTERO: AZERBAIJAN",ARB
+http://85.132.81.184:8080/arb/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/7k1yFZv.jpg" group-title="ESTERO: AZERBAIJAN",ARB
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="ESTERO: AZERBAIJAN",ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="ESTERO: AZERBAIJAN",ARB Günəş
+http://149.255.152.199/arbgunes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="ESTERO: AZERBAIJAN",ARB Kəpəz TV
+https://streams.livetv.az/arbkepez/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="ESTERO: AZERBAIJAN",ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="ESTERO: AZERBAIJAN",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="ESTERO: AZERBAIJAN",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="ESTERO: AZERBAIJAN",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/Iv3CZjg.jpg" group-title="ESTERO: AZERBAIJAN",CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/4VAiAnb.jpg" group-title="ESTERO: AZERBAIJAN",CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="ESTERO: AZERBAIJAN",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

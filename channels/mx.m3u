@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="adn40" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="",adn40 (480p)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
@@ -65,3 +66,75 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 #EXTINF:-1 tvg-id="tvunam.mx" tvg-name="tvunam" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/TVUNAMoficial/picture?width=200&height=200" group-title="",tvunam (480p)
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
+=======
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/x8lwsjM.png" tvg-name="ADN 40"  group-title="ESTERO: MESSICO",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" tvg-name="Alcarria TV"  group-title="ESTERO: MESSICO",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vakdxny.jpg" tvg-name="Canal 10 Cancún"  group-title="ESTERO: MESSICO",Canal 10 Cancún
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 20 Zacatecas"  group-title="ESTERO: MESSICO",Canal 20 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/U2JblvH.png" tvg-name="Canal 22.2"  group-title="ESTERO: MESSICO",Canal 22.2
+https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8```
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 4 Saltillo"  group-title="ESTERO: MESSICO",Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" tvg-name="Canal Catorce"  group-title="ESTERO: MESSICO",Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9BtSyV2.png" tvg-name="Canal Mundo+"  group-title="ESTERO: MESSICO",Canal Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" tvg-name="Canal Once Internacional"  group-title="ESTERO: MESSICO",Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-name="Canal Once Internacional"  group-title="ESTERO: MESSICO",Canal Once Internacional
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/NAgRCyY.png" tvg-name="Canal Once Nacional"  group-title="ESTERO: MESSICO",Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.capital21.cdmx.gob.mx/assets/img/programas_lat/logo.png" tvg-name="Capital 21"  group-title="ESTERO: MESSICO",Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Capital 21 Mexico City"  group-title="ESTERO: MESSICO",Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/qxse0jH.png" tvg-name="De Película"  group-title="ESTERO: MESSICO",De Película
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/p2y6Fbd.png" tvg-name="EWTN"  group-title="ESTERO: MESSICO",EWTN
+https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hMtKE60.png" tvg-name="Genesis TV"  group-title="ESTERO: MESSICO",Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zh05BZ3.jpeg" tvg-name="Mexiquense TV"  group-title="ESTERO: MESSICO",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KiKtVbb.png" tvg-name="Milenio TV"  group-title="ESTERO: MESSICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KiKtVbb.png" tvg-name="Milenio TV"  group-title="ESTERO: MESSICO",Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" tvg-name="MONTE MARIA | SD (MX)"  group-title="ESTERO: MESSICO",MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Multimedios Laguna"  group-title="ESTERO: MESSICO",Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Multimedios Monterrey (Opt-1)"  group-title="ESTERO: MESSICO",Multimedios Monterrey (Opt-1)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Multimedios Monterrey (Opt-2)"  group-title="ESTERO: MESSICO",Multimedios Monterrey (Opt-2)
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Puebla TV"  group-title="ESTERO: MESSICO",Puebla TV
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCG 1 Saltillo"  group-title="ESTERO: MESSICO",RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCG 2 Saltillo"  group-title="ESTERO: MESSICO",RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCG 3 Saltillo"  group-title="ESTERO: MESSICO",RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTG Guerrero"  group-title="ESTERO: MESSICO",RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTQ Queretaro"  group-title="ESTERO: MESSICO",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Silence TV"  group-title="ESTERO: MESSICO",Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/aH9uKk0.jpg" tvg-name="TELEFORMULA"  group-title="ESTERO: MESSICO",TELEFORMULA
+https://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" tvg-name="Telemax"  group-title="ESTERO: MESSICO",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/15kcNRb.png" tvg-name="TVMÁS"  group-title="ESTERO: MESSICO",TVMÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVMAS Veracruz"  group-title="ESTERO: MESSICO",TVMAS Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

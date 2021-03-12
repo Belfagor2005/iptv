@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-name="Acheloos TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://goo.gl/mNqHoo" group-title="",Acheloos TV (576p)
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
@@ -81,3 +82,195 @@ http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="MesogeiosTV.gr" tvg-name="Μεσογειος TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" group-title="Local",Μεσογειος TV (450p)
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+=======
+﻿﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Acheloos TV"  group-title="ESTERO: GRECIA",Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/w/file/fetch/98921626/SUNNY.png" tvg-name="Alert"  group-title="ESTERO: GRECIA",Alert
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ALPHA GR" tvg-logo="https://www.alphatv.gr/Content/Images/logoRed.svg" tvg-name="Alpha TV"  group-title="ESTERO: GRECIA",Alpha TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Attica TV"  group-title="ESTERO: GRECIA",Attica TV
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://goo.gl/mNqHoo" tvg-name="Axeloos"  group-title="ESTERO: GRECIA",Axeloos
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-name="Baraza TV"  group-title="ESTERO: GRECIA",Baraza TV
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-name="Baraza TV Classic Hits"  group-title="ESTERO: GRECIA",Baraza TV Classic Hits
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Baraza TV Greek Hits (Opt-1)"  group-title="ESTERO: GRECIA",Baraza TV Greek Hits (Opt-1)
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Baraza TV Greek Hits (Opt-2)"  group-title="ESTERO: GRECIA",Baraza TV Greek Hits (Opt-2)
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-name="Baraza TV Greek Music Hits"  group-title="ESTERO: GRECIA",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cannali TV"  group-title="ESTERO: GRECIA",Cannali TV
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/24uaLwh.png" tvg-name="Channel 9"  group-title="ESTERO: GRECIA",Channel 9
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/G7LHkTE.jpg" tvg-name="Corfu TV"  group-title="ESTERO: GRECIA",Corfu TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Crete TV"  group-title="ESTERO: GRECIA",Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/f/ENA_CHANNEL.png" tvg-name="Ena Channel"  group-title="ESTERO: GRECIA",Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ena Channel"  group-title="ESTERO: GRECIA",Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EOE Channel"  group-title="ESTERO: GRECIA",EOE Channel
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AIPYTd0.png" tvg-name="Eoe TV"  group-title="ESTERO: GRECIA",Eoe TV
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/f/EPIRUS_TV1.png" tvg-name="Epirus TV1"  group-title="ESTERO: GRECIA",Epirus TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Epsilon"  group-title="ESTERO: GRECIA",Epsilon
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/uet8P2n.jpg" tvg-name="ERT World"  group-title="ESTERO: GRECIA",ERT World
+http://wpso.com:1936/hls/wzra.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" tvg-name="Fox Tv Greece"  group-title="ESTERO: GRECIA",Fox Tv Greece
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Greek Tourism Channel"  group-title="ESTERO: GRECIA",Greek Tourism Channel
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Greek Voice (US)"  group-title="ESTERO: GRECIA",Greek Voice (US)
+http://wpso.com:1936/hls/wzra.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-name="Groovy"  group-title="ESTERO: GRECIA",Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ionian Channel"  group-title="ESTERO: GRECIA",Ionian Channel
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Ionian TV GR" tvg-logo="http://greektv.pbworks.com/w/file/fetch/51254412/IONIAN.PNG" tvg-name="Ionian TV"  group-title="ESTERO: GRECIA",Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Kontra Channel GR" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-name="Kontra Channel"  group-title="ESTERO: GRECIA",Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1, tvg-id="Kontra Channel GR" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=56014296&t=1544180280413" tvg-name="Kontra Channel"  group-title="ESTERO: GRECIA",Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MAD TV"  group-title="ESTERO: GRECIA",MAD TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-name="Magic TV"  group-title="ESTERO: GRECIA",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mesogeios TV"  group-title="ESTERO: GRECIA",Mesogeios TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/nwInqes.png" tvg-name="Messinia Web TV"  group-title="ESTERO: GRECIA",Messinia Web TV
+http://176.9.123.140:1935/messinia/messinia/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/2tB3wqn.png" tvg-name="Montreal Greek TV"  group-title="ESTERO: GRECIA",Montreal Greek TV
+http://94.130.180.175:8081/live/greektv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Nea TV GR" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" tvg-name="Nea TV"  group-title="ESTERO: GRECIA",Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NETV (CA)"  group-title="ESTERO: GRECIA",NETV (CA)
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-name="NG"  group-title="ESTERO: GRECIA",NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-name="NG"  group-title="ESTERO: GRECIA",NG
+https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NG Radio"  group-title="ESTERO: GRECIA",NG Radio
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" tvg-name="NRG 91"  group-title="ESTERO: GRECIA",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/100uuWA.png" tvg-name="Play TV"  group-title="ESTERO: GRECIA",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv.jpg" tvg-name="Reload Play"  group-title="ESTERO: GRECIA",Reload Play
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reload Radio"  group-title="ESTERO: GRECIA",Reload Radio
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/w/file/fetch/67079118/SAMIAKI_TV%2C.png" tvg-name="Samiaki tv"  group-title="ESTERO: GRECIA",Samiaki tv
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/f/START_TV.png" tvg-name="Start TV"  group-title="ESTERO: GRECIA",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Start TV"  group-title="ESTERO: GRECIA",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syros TV1"  group-title="ESTERO: GRECIA",Syros TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tile Mousiki"  group-title="ESTERO: GRECIA",Tile Mousiki
+http://wpso.com:1936/hls/music1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://greektv.pbworks.com/f/TOP_KOZANIS.png" tvg-name="Top Channel"  group-title="ESTERO: GRECIA",Top Channel
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 100"  group-title="ESTERO: GRECIA",TV 100
+http://178.62.176.153/hls/tv100/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg" tvg-name="TV Creta"  group-title="ESTERO: GRECIA",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/GdgekUL.png" tvg-name="TV Filopoli"  group-title="ESTERO: GRECIA",TV Filopoli
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Vouli GR" tvg-logo="https://i.imgur.com/7A86yAv.png" tvg-name="Vouli Tileorasi"  group-title="ESTERO: GRECIA",Vouli Tileorasi
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+
+#EXTINF:-1, tvg-id="Vouli GR" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41706922&t=1524412256156" tvg-name="Vouli Tileorasi"  group-title="ESTERO: GRECIA",Vouli Tileorasi
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vouli Tileorasi (Opt-1)"  group-title="ESTERO: GRECIA",Vouli Tileorasi (Opt-1)
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vouli Tileorasi (Opt-2)"  group-title="ESTERO: GRECIA",Vouli Tileorasi (Opt-2)
+http://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-name="Wixlar"  group-title="ESTERO: GRECIA",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/7sUmqv2.png" tvg-name="WZra Kids TV"  group-title="ESTERO: GRECIA",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" tvg-name="Xalastra TV"  group-title="ESTERO: GRECIA",Xalastra TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Xplore Channel"  group-title="ESTERO: GRECIA",Xplore Channel
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ErFj6rR.png" tvg-name="Xplore TV"  group-title="ESTERO: GRECIA",Xplore TV
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Krete TV GR" tvg-logo="https://i.imgur.com/Ldt07Lh.png" tvg-name="ΚρήτηTV"  group-title="ESTERO: GRECIA",ΚρήτηTV
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OnB6n3C.jpg" tvg-name="Μεσογειος TV"  group-title="ESTERO: GRECIA",Μεσογειος TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

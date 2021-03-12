@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="4FUNTV.pl" tvg-name="4FUN TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Music",4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
@@ -67,3 +68,77 @@ http://176.107.129.219/media/tvt/index.m3u8
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja TV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ec8DxWx.jpg" group-title="",Twoja TV
 http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+=======
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CW 24"  group-title="ESTERO: POLAND",CW 24
+http://cdn4.stream360.pl/CW24/transmisja_live/playlist.m3u8
+#EXTINF:-1, tvg-id="WTK PL" tvg-logo="https://i.imgur.com/N318K6a.jpg" tvg-name="dlaCiebieTV"  group-title="ESTERO: POLAND",dlaCiebieTV
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1, tvg-id="WTK PL" tvg-logo="https://i.imgur.com/a5DX4nh.jpg" tvg-name="Echo24"  group-title="ESTERO: POLAND",Echo24
+https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hJAoLIq.png" tvg-name="EZO TV"  group-title="ESTERO: POLAND",EZO TV
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sfera TV"  group-title="ESTERO: POLAND",Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/chunklist_b1128000_slpl.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/kgE2maL.jpg" tvg-name="Sfera TV"  group-title="ESTERO: POLAND",Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tgLWe9o.jpg" tvg-name="Telewizja Kujawy"  group-title="ESTERO: POLAND",Telewizja Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ilGvIug.jpeg" tvg-name="Telewizja Pogranicze (Głubczyce)"  group-title="ESTERO: POLAND",Telewizja Pogranicze (Głubczyce)
+http://95.160.28.218:1935/pogranicze/myStream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/GdbkqCM.png" tvg-name="Telewizja Toruń"  group-title="ESTERO: POLAND",Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ic07Biz.jpg" tvg-name="TRUSO.TV (Elbląg)"  group-title="ESTERO: POLAND",TRUSO.TV (Elbląg)
+http://95.160.28.218:1935/elblag/myStream_aac/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/l8tRJVW.jpg" tvg-name="TV Regionalna"  group-title="ESTERO: POLAND",TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/k6zdLLu.jpg" tvg-name="TV Trwam"  group-title="ESTERO: POLAND",TV Trwam
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Trwam"  group-title="ESTERO: POLAND",TV Trwam
+http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zPSpvss.jpg" tvg-name="TVP 3 Białystok"  group-title="ESTERO: POLAND",TVP 3 Białystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/b0Xevsc.jpg" tvg-name="TVP 3 Bydgoszcz"  group-title="ESTERO: POLAND",TVP 3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wGZCj7G.jpg" tvg-name="TVP 3 Gdańsk"  group-title="ESTERO: POLAND",TVP 3 Gdańsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/H3jtBQm.jpg" tvg-name="TVP 3 Gorzów Wielkopolski"  group-title="ESTERO: POLAND",TVP 3 Gorzów Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/burRKHa.jpg" tvg-name="TVP 3 Katowice"  group-title="ESTERO: POLAND",TVP 3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YcQxM94.jpg" tvg-name="TVP 3 Kielce"  group-title="ESTERO: POLAND",TVP 3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MbAKxD1.jpg" tvg-name="TVP 3 Kraków"  group-title="ESTERO: POLAND",TVP 3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/r5wxdkB.jpg" tvg-name="TVP 3 Łódź"  group-title="ESTERO: POLAND",TVP 3 Łódź
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/h7oq2yg.jpg" tvg-name="TVP 3 Lublin"  group-title="ESTERO: POLAND",TVP 3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Aa0HedU.jpg" tvg-name="TVP 3 Olsztyn"  group-title="ESTERO: POLAND",TVP 3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dYRtDRA.jpg" tvg-name="TVP 3 Opole"  group-title="ESTERO: POLAND",TVP 3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mTnjVGQ.jpg" tvg-name="TVP 3 Poznań"  group-title="ESTERO: POLAND",TVP 3 Poznań
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/6jGX6Xy.jpg" tvg-name="TVP 3 Rzeszów"  group-title="ESTERO: POLAND",TVP 3 Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/NRb6S8z.jpg" tvg-name="TVP 3 Szczecin"  group-title="ESTERO: POLAND",TVP 3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-name="TVP 3 Warszawa"  group-title="ESTERO: POLAND",TVP 3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0em2QIh.jpg" tvg-name="TVP 3 Wrocław"  group-title="ESTERO: POLAND",TVP 3 Wrocław
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/idt6Zz3.jpg" tvg-name="TVP Info"  group-title="ESTERO: POLAND",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CpgzCZq.jpg" tvg-name="TVP Parlament"  group-title="ESTERO: POLAND",TVP Parlament
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/pJKndl0.jpg" tvg-name="TVT Telewizja regionalna (Rybnik)"  group-title="ESTERO: POLAND",TVT Telewizja regionalna (Rybnik)
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-name="TVT Zgorzelec"  group-title="ESTERO: POLAND",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ec8DxWx.jpg" tvg-name="Twoja TV"  group-title="ESTERO: POLAND",Twoja TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Twoja TV (Opt-1)"  group-title="ESTERO: POLAND",Twoja TV (Opt-1)
+http://94.246.169.19/ttv_hls/live_270p/index.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

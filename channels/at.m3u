@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="DorfTV.at" tvg-name="Dorf TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/SK9IQ1Z.png" group-title="",Dorf TV
 https://stream.openplayout.org/hls/dorf.m3u8
@@ -53,3 +54,65 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-name="W24" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/J25y9ah.png" group-title="",W24 (720p)
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+=======
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/SK9IQ1Z.png" tvg-name="Dorf TV"  group-title="ESTERO: AUSTRIA",Dorf TV
+https://stream.openplayout.org/hls/dorf.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/HSRpYUl.jpg" tvg-name="FS1 Salzburg"  group-title="ESTERO: AUSTRIA",FS1 Salzburg
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-name="Go TV"  group-title="ESTERO: AUSTRIA",Go TV
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/pb4Iqno.png" tvg-name="Hitradio Ö3"  group-title="ESTERO: AUSTRIA",Hitradio Ö3
+http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KRONEHIT TV HD [1080p]"  group-title="ESTERO: AUSTRIA",KRONEHIT TV HD [1080p]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/OyOPRtq.png" tvg-name="K-TV"  group-title="ESTERO: AUSTRIA",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/xmfgBrg.png" tvg-name="M4"  group-title="ESTERO: AUSTRIA",M4
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gRHJDxr.png" tvg-name="oe24.TV"  group-title="ESTERO: AUSTRIA",oe24.TV
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Z9LgT0v.jpg" tvg-name="Okto Eight"  group-title="ESTERO: AUSTRIA",Okto Eight
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ORF1_logo.svg/1280px-ORF1_logo.svg.png" tvg-name="ORF 1"  group-title="ESTERO: AUSTRIA",ORF 1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 1 (Geo)(opt2)"  group-title="ESTERO: AUSTRIA",ORF 1 (Geo)(opt2)
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1280px-ORF2_logo_n.svg.png" tvg-name="ORF 2"  group-title="ESTERO: AUSTRIA",ORF 2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 2 (Geo)(opt2)"  group-title="ESTERO: AUSTRIA",ORF 2 (Geo)(opt2)
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" tvg-name="ORF 3"  group-title="ESTERO: AUSTRIA",ORF 3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 3 (Geo)"  group-title="ESTERO: AUSTRIA",ORF 3 (Geo)
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF Sport (Geo)"  group-title="ESTERO: AUSTRIA",ORF Sport (Geo)
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" tvg-name="ORF Sport +"  group-title="ESTERO: AUSTRIA",ORF Sport +
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF Sport + (Geo)"  group-title="ESTERO: AUSTRIA",ORF Sport + (Geo)
+http://orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF1"  group-title="ESTERO: AUSTRIA",ORF1
+http://51.159.3.34:80/d10/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF2"  group-title="ESTERO: AUSTRIA",ORF2
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_4.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/C6Hp5Pb.jpg" tvg-name="P3tv"  group-title="ESTERO: AUSTRIA",P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Wu6SMvb.png" tvg-name="R9"  group-title="ESTERO: AUSTRIA",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mw9GNmh.png" tvg-name="RTL Austria"  group-title="ESTERO: AUSTRIA",RTL Austria
+http://188.35.9.5:10020/stolen/502r/hot.dll
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS Salzburg"  group-title="ESTERO: AUSTRIA",RTS Salzburg
+http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8?fluxustv.m3u
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Swamiji TV (Austria)"  group-title="ESTERO: AUSTRIA",Swamiji TV (Austria)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KJie1k5.png" tvg-name="Teins TV"  group-title="ESTERO: AUSTRIA",Teins TV
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tirol TV"  group-title="ESTERO: AUSTRIA",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/J25y9ah.png" tvg-name="W24"  group-title="ESTERO: AUSTRIA",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="YU Planet"  group-title="ESTERO: AUSTRIA",YU Planet
+http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

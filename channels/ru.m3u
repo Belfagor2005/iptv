@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Music",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -882,3 +883,444 @@ http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-id="utv-cheboxary" tvg-name="ЮТВ Чебоксары" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Local",ЮТВ (Чебоксары) (432p)
 http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+=======
+﻿#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1HD Music TV"  group-title="ESTERO: RUSSIA",1HD Music TV
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="360-podmoskovie" tvg-logo="https://gl.weburg.net/00/tv/channels/1/491/bigposter/7459394.png" tvg-name="360°"  group-title="ESTERO: RUSSIA",360°
+https://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1, tvg-id="lot-47" tvg-logo="https://static.piter.tv/img/47channel/logo.png" tvg-name="47 Канал"  group-title="ESTERO: RUSSIA",47 Канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="8 Канал"  group-title="ESTERO: RUSSIA",8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1, tvg-id="8kanal-ru" tvg-logo="http://tv8crimea.ru/wp-content/uploads/2017/11/1logo.png" tvg-name="8 Канал"  group-title="ESTERO: RUSSIA",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1"  group-title="ESTERO: RUSSIA",A1
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A2"  group-title="ESTERO: RUSSIA",A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A2"  group-title="ESTERO: RUSSIA",A2
+https://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ACB TV"  group-title="ESTERO: RUSSIA",ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia 1 [480p]"  group-title="ESTERO: RUSSIA",Amedia 1 [480p]
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia 1 [480p]"  group-title="ESTERO: RUSSIA",Amedia 1 [480p]
+http://92.43.140.249/s45/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia 2 [480p]"  group-title="ESTERO: RUSSIA",Amedia 2 [480p]
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia 2 [480p]"  group-title="ESTERO: RUSSIA",Amedia 2 [480p]
+http://92.43.140.249/s33/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia Premium [480p]"  group-title="ESTERO: RUSSIA",Amedia Premium [480p]
+http://92.43.140.249/s64/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Amedia Premium [480p]"  group-title="ESTERO: RUSSIA",Amedia Premium [480p]
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Asyl Arna"  group-title="ESTERO: RUSSIA",Asyl Arna
+http://212.154.188.10:1935/live/v_352_512.stream/HasBahCa.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="ESTERO: RUSSIA",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bg Dnes"  group-title="ESTERO: RUSSIA",Bg Dnes
+http://80.72.95.40:8088
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brics TV HD"  group-title="ESTERO: RUSSIA",Brics TV HD
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bridge TV"  group-title="ESTERO: RUSSIA",Bridge TV
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rxwTjuT.jpg" tvg-name="BST TV Bashkirskoe Sputnikovoe TV"  group-title="ESTERO: RUSSIA",BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Science HD [1080p]"  group-title="ESTERO: RUSSIA",Discovery Science HD [1080p]
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Science HD [720p]"  group-title="ESTERO: RUSSIA",Discovery Science HD [720p]
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel [480p]"  group-title="ESTERO: RUSSIA",Disney Channel [480p]
+http://92.43.140.249/s60/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel [480p]"  group-title="ESTERO: RUSSIA",Disney Channel [480p]
+http://ott-cdn.ucom.am/s60/index.m3u8
+#EXTINF:-1, tvg-id="euronews" tvg-logo="https://i.imgur.com/4oOscgt.jpg" tvg-name="Euronews"  group-title="ESTERO: RUSSIA",Euronews
+https://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews [480p]"  group-title="ESTERO: RUSSIA",Euronews [480p]
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fine Living [480p]"  group-title="ESTERO: RUSSIA",Fine Living [480p]
+http://ott-cdn.ucom.am/s51/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fine Living [480p]"  group-title="ESTERO: RUSSIA",Fine Living [480p]
+http://92.43.140.249/s51/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="ESTERO: RUSSIA",Food Network
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food Network [480p]"  group-title="ESTERO: RUSSIA",Food Network [480p]
+http://ott-cdn.ucom.am/s18/index.m3u8
+#EXTINF:-1, tvg-id="freshtv" tvg-logo="https://i.imgur.com/Ju3mLgq.png" tvg-name="Fresh TV"  group-title="ESTERO: RUSSIA",Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FTV RUSSIA [1080p]"  group-title="ESTERO: RUSSIA",FTV RUSSIA [1080p]
+https://strm.yandex.ru/kal/fashiontv/fashiontv0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg" tvg-name="GlobalStar TV"  group-title="ESTERO: RUSSIA",GlobalStar TV
+http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HTV KG [1080p]"  group-title="ESTERO: RUSSIA",HTV KG [1080p]
+http://77.220.204.63:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Impact TV"  group-title="ESTERO: RUSSIA",Impact TV
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AxgNvdp.png" tvg-name="Kurai TV"  group-title="ESTERO: RUSSIA",Kurai TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1, tvg-id="luxury" tvg-logo="https://iptvx.one/icn/luxury.png" tvg-name="Luxury"  group-title="Shop",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://mtvmix.ru/images/2018/Tsvetnoy_logo_MTV_Mix_16.png" tvg-name="MTVmix (Уфа)"  group-title="ESTERO: RUSSIA",MTVmix (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nano TV"  group-title="ESTERO: RUSSIA",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ocean TV"  group-title="ESTERO: RUSSIA",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/D5M4Gjr.png" tvg-name="RBK"  group-title="ESTERO: RUSSIA",RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT"  group-title="ESTERO: RUSSIA",RT
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1, tvg-id="Rusiya Al Yaum ARB" tvg-logo="https://i.imgur.com/XYJEasM.png" tvg-name="RT Arabic"  group-title="ESTERO: RUSSIA",RT Arabic
+https://rt-arab.secure.footprint.net/1104.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT Doc English"  group-title="ESTERO: RUSSIA",RT Doc English
+http://ott-cdn.ucom.am/s93/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT en Español"  group-title="ESTERO: RUSSIA",RT en Español
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1, tvg-id="Russia Today" tvg-logo="https://i.imgur.com/Du5rsc8.png" tvg-name="RT News"  group-title="ESTERO: RUSSIA",RT News
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT US"  group-title="ESTERO: RUSSIA",RT US
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT US [480p]"  group-title="ESTERO: RUSSIA",RT US [480p]
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1, tvg-id="rtd-ru" tvg-logo="https://i.imgur.com/C6fylkt.png" tvg-name="RT Д Русский"  group-title="Documentary",RT Д Русский
+https://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTG TV"  group-title="ESTERO: RUSSIA",RTG TV
+http://92.43.140.249/s80/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTG TV"  group-title="ESTERO: RUSSIA",RTG TV
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTG TV HD"  group-title="ESTERO: RUSSIA",RTG TV HD
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="ESTERO: RUSSIA",RU TV HD
+https://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RU TV HD"  group-title="ESTERO: RUSSIA",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1, tvg-id="ru-tv" tvg-logo="https://i.imgur.com/0ujfLYr.png" tvg-name="RU.TV"  group-title="ESTERO: RUSSIA",RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Russian Extreme"  group-title="ESTERO: RUSSIA",Russian Extreme
+http://92.43.140.249/s47/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Russian Extreme"  group-title="ESTERO: RUSSIA",Russian Extreme
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Russian Extreme [480p]"  group-title="ESTERO: RUSSIA",Russian Extreme [480p]
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Russian Music Box"  group-title="ESTERO: RUSSIA",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/thfF7IJ.jpg" tvg-name="Salyam"  group-title="ESTERO: RUSSIA",Salyam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SENTANA SPORT"  group-title="ESTERO: RUSSIA",SENTANA SPORT
+http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Service01"  group-title="ESTERO: RUSSIA",Service01
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Setanta Sports Plus [480p]"  group-title="ESTERO: RUSSIA",Setanta Sports Plus [480p]
+http://ott-cdn.ucom.am/s82/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Shopping Live"  group-title="ESTERO: RUSSIA",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONG TV Russia"  group-title="ESTERO: RUSSIA",SONG TV Russia
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9RhbrLM.jpg" tvg-name="SТS"  group-title="ESTERO: RUSSIA",SТS
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ySedtZl.png" tvg-name="Tamir TV"  group-title="ESTERO: RUSSIA",Tamir TV
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="ESTERO: RUSSIA",TiJi
+http://92.43.140.249/s59/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="ESTERO: RUSSIA",TiJi
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TiJi [480p]"  group-title="ESTERO: RUSSIA",TiJi [480p]
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000 Action East"  group-title="ESTERO: RUSSIA",TV 1000 Action East
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000 Action East"  group-title="ESTERO: RUSSIA",TV 1000 Action East
+http://92.43.140.249/s91/04.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-name="TV BRICS China"  group-title="ESTERO: RUSSIA",TV BRICS China
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-name="TV BRICS English"  group-title="ESTERO: RUSSIA",TV BRICS English
+https://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-name="TV BRICS Russia"  group-title="ESTERO: RUSSIA",TV BRICS Russia
+https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV1000 Action [480p]"  group-title="ESTERO: RUSSIA",TV1000 Action [480p]
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tvdom.ua"  group-title="ESTERO: RUSSIA",Tvdom.ua
+http://78.26.128.21:1234
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVM Channel"  group-title="ESTERO: RUSSIA",TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UDJE"  group-title="ESTERO: RUSSIA",UDJE
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/r3ARFu5.jpg" tvg-name="Ulto TV"  group-title="ESTERO: RUSSIA",Ulto TV
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Univer"  group-title="ESTERO: RUSSIA",Univer
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="univer-tv" tvg-logo="Logo N/A" tvg-name="Univer TV"  group-title="ESTERO: RUSSIA",Univer TV
+https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="univer-tv" tvg-logo="Logo N/A" tvg-name="Univer TV"  group-title="ESTERO: RUSSIA",Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="univer-tv" tvg-logo="Logo N/A" tvg-name="Univer TV"  group-title="ESTERO: RUSSIA",Univer TV
+https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNIVER TV"  group-title="ESTERO: RUSSIA",UNIVER TV
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNIVER TV HD"  group-title="ESTERO: RUSSIA",UNIVER TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/hLD874K.jpg" tvg-name="Vechernyaya Moskva"  group-title="ESTERO: RUSSIA",Vechernyaya Moskva
+https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Sport East"  group-title="ESTERO: RUSSIA",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VIVA TV Russia"  group-title="ESTERO: RUSSIA",VIVA TV Russia
+http://cdnnow.goodgame.ru/hls/180805.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Арис 24"  group-title="ESTERO: RUSSIA",Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1, tvg-id="arxyz24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" tvg-name="Архыз 24"  group-title="ESTERO: RUSSIA",Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1, tvg-id="astraxan24" tvg-logo="Logo N/A" tvg-name="Астрахань 24"  group-title="ESTERO: RUSSIA",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1, tvg-id="astraxan24" tvg-logo="Logo N/A" tvg-name="Астрахань 24"  group-title="ESTERO: RUSSIA",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:-1, tvg-id="astraxan24" tvg-logo="Logo N/A" tvg-name="Астрахань 24"  group-title="ESTERO: RUSSIA",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru Sport"  group-title="ESTERO: RUSSIA",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru Sport"  group-title="ESTERO: RUSSIA",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru Sport"  group-title="ESTERO: RUSSIA",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru TV"  group-title="ESTERO: RUSSIA",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru TV"  group-title="ESTERO: RUSSIA",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Астрахань.Ru TV"  group-title="ESTERO: RUSSIA",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="belgorod24" tvg-logo="Logo N/A" tvg-name="Белгород 24"  group-title="ESTERO: RUSSIA",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1, tvg-id="vetta24" tvg-logo="Logo N/A" tvg-name="Ветта 24 (Пермь)"  group-title="ESTERO: RUSSIA",Ветта 24 (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1, tvg-id="volgograd-1" tvg-logo="Logo N/A" tvg-name="Волгоград 1"  group-title="ESTERO: RUSSIA",Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Губерния (Воронеж)"  group-title="ESTERO: RUSSIA",Губерния (Воронеж)
+https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:-1, tvg-id="gubernia-samara" tvg-logo="https://www.guberniatv.ru/img/logo.png" tvg-name="Губерния (Самара)"  group-title="ESTERO: RUSSIA",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="gubernia-33" tvg-logo="Logo N/A" tvg-name="Губерния 33 (Владимир)"  group-title="ESTERO: RUSSIA",Губерния 33 (Владимир)
+https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Губерния Самарская"  group-title="ESTERO: RUSSIA",Губерния Самарская
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Дагестан"  group-title="ESTERO: RUSSIA",Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1, tvg-id="dajving-tv" tvg-logo="Logo N/A" tvg-name="Дайвинг.TV"  group-title="Hobby",Дайвинг.TV
+https://strm.yandex.ru/kal/diving/diving0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Дисконт"  group-title="ESTERO: RUSSIA",Дисконт
+https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ДОЖДЬ"  group-title="ESTERO: RUSSIA",ДОЖДЬ
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1, tvg-id="evrasia" tvg-logo="Logo N/A" tvg-name="Евразия (Орск)"  group-title="ESTERO: RUSSIA",Евразия (Орск)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1, tvg-id="evrasia" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" tvg-name="Евразия (Орск)"  group-title="ESTERO: RUSSIA",Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1, tvg-id="zhar-ptica" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-name="Жар Птица"  group-title="ESTERO: RUSSIA",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1, tvg-id="izvestia" tvg-logo="https://iptvx.one/icn/izvestia.png" tvg-name="Известия"  group-title="ESTERO: RUSSIA",Известия
+https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1, tvg-id="izvestia" tvg-logo="https://iptvx.one/icn/izvestia.png" tvg-name="Известия"  group-title="ESTERO: RUSSIA",Известия
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1, tvg-id="kaleydoskop-tv" tvg-logo="http://k-telecom.org/uploadedFiles/images/logo/k_logo_colorblack_RGB.jpg" tvg-name="Калейдоскоп ТВ"  group-title="ESTERO: RUSSIA",Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Кино UHD"  group-title="ESTERO: RUSSIA",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КиноЗаказ 2"  group-title="ESTERO: RUSSIA",КиноЗаказ 2
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Красная линия"  group-title="ESTERO: RUSSIA",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1, tvg-id="krasnaya-linia" tvg-logo="Logo N/A" tvg-name="Красная линия"  group-title="ESTERO: RUSSIA",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1, tvg-id="krik-tv" tvg-logo="http://ricekb.ru/img/logo.png" tvg-name="Крик-ТВ"  group-title="ESTERO: RUSSIA",Крик-ТВ
+https://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="krym24" tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" tvg-name="Крым 24"  group-title="ESTERO: RUSSIA",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="КТК"  group-title="ESTERO: RUSSIA",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Кубань 24 Орбита"  group-title="ESTERO: RUSSIA",Кубань 24 Орбита
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:-1, tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" tvg-name="ЛДПР ТВ"  group-title="ESTERO: RUSSIA",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1, tvg-id="ldpr-tv" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" tvg-name="ЛДПР ТВ"  group-title="ESTERO: RUSSIA",ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1, tvg-id="lipeckoe-vremia" tvg-logo="Logo N/A" tvg-name="Липецкое время"  group-title="ESTERO: RUSSIA",Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1, tvg-id="luch" tvg-logo="http://trk-luch.ru.opt-images.1c-bitrix-cdn.ru/bitrix/templates/.default/static/images/logo.png" tvg-name="Луч (Пуровск)"  group-title="ESTERO: RUSSIA",Луч (Пуровск)
+https://live.trk-luch.ru/hls/live.m3u8
+#EXTINF:-1, tvg-id="lubimoe-tv" tvg-logo="Logo N/A" tvg-name="Любимое.ТВ"  group-title="Kids",Любимое.ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BOry400.png" tvg-name="Мoscow 24"  group-title="ESTERO: RUSSIA",Мoscow 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Матур ТВ HD"  group-title="ESTERO: RUSSIA",Матур ТВ HD
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1, tvg-id="match-tv" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-name="Матч!"  group-title="ESTERO: RUSSIA",Матч!
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Между.Net (Междуреченск)"  group-title="ESTERO: RUSSIA",Между.Net (Междуреченск)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Миллет"  group-title="ESTERO: RUSSIA",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1, tvg-id="ministerstvo-idey" tvg-logo="Logo N/A" tvg-name="Министерство идей"  group-title="ESTERO: RUSSIA",Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="mir" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" tvg-name="Мир"  group-title="ESTERO: RUSSIA",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1, tvg-id="mir-pl4" tvg-logo="https://i.imgur.com/CrFWXTD.png" tvg-name="Мир (+4)"  group-title="ESTERO: RUSSIA",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1, tvg-id="mir-24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-name="Мир 24"  group-title="ESTERO: RUSSIA",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="ESTERO: RUSSIA",Мир 24
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1, tvg-id="mir-premium" tvg-logo="Logo N/A" tvg-name="Мир Premium"  group-title="ESTERO: RUSSIA",Мир Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1, tvg-id="mir-belogoria" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир/0белогорья_логотип.jpg" tvg-name="Мир Белагорья"  group-title="ESTERO: RUSSIA",Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1, tvg-id="mir-belogoria" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" tvg-name="Мир Белогорья"  group-title="ESTERO: RUSSIA",Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Москва 24"  group-title="ESTERO: RUSSIA",Москва 24
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Моя Планета"  group-title="ESTERO: RUSSIA",Моя Планета
+https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8
+#EXTINF:-1, tvg-id="mtv-volgograd" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" tvg-name="МТВ (Волгоград)"  group-title="ESTERO: RUSSIA",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="muzsoyuz" tvg-logo="Logo N/A" tvg-name="МузСоюз"  group-title="ESTERO: RUSSIA",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1, tvg-id="nadezhda" tvg-logo="Logo N/A" tvg-name="Надежда"  group-title="ESTERO: RUSSIA",Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1, tvg-id="nadezhda" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" tvg-name="Надежда"  group-title="ESTERO: RUSSIA",Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1, tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/icn/nasha-sibir.png" tvg-name="Наша Сибирь"  group-title="ESTERO: RUSSIA",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1, tvg-id="nebesa-tv7" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-name="Небеса ТВ7"  group-title="ESTERO: RUSSIA",Небеса ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="nika-tv" tvg-logo="https://nikatv.ru/public/img/logo2.png" tvg-name="Ника ТВ"  group-title="ESTERO: RUSSIA",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Новое"  group-title="ESTERO: RUSSIA",Новое
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Новое Телевидение"  group-title="ESTERO: RUSSIA",Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1, tvg-id="novy-mir" tvg-logo="Logo N/A" tvg-name="Новый мир"  group-title="ESTERO: RUSSIA",Новый мир
+https://persik.by/stream/8682/252987/10231.m3u8
+#EXTINF:-1, tvg-id="ntm" tvg-logo="Logo N/A" tvg-name="НТМ (Мордовия)"  group-title="ESTERO: RUSSIA",НТМ (Мордовия)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="o2tv" tvg-logo="https://ustanovca-tricorol-tv.ru/wp-content/uploads/2017/12/o-tv.png" tvg-name="О2ТВ"  group-title="ESTERO: RUSSIA",О2ТВ
+https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, tvg-id="o2tv" tvg-logo="Logo N/A" tvg-name="О2ТВ"  group-title="ESTERO: RUSSIA",О2ТВ
+https://strm.yandex.ru/kal/o2/o20.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Общественное Независимое Телевидение"  group-title="ESTERO: RUSSIA",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Одинцово ТВ"  group-title="ESTERO: RUSSIA",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Оплот ТВ"  group-title="ESTERO: RUSSIA",Оплот ТВ
+http://185.114.136.25/oplot-tv?streamType=live
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Остросюжетное HD"  group-title="ESTERO: RUSSIA",Остросюжетное HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:-1, tvg-id="otr" tvg-logo="https://iptvx.one/icn/otr_ru.png" tvg-name="ОТР"  group-title="ESTERO: RUSSIA",ОТР
+https://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Первый канал "Евразия""  group-title="ESTERO: RUSSIA",Первый канал "Евразия"
+https://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1, tvg-id="pervy-krymsky" tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" tvg-name="Первый крымский"  group-title="ESTERO: RUSSIA",Первый крымский
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1, tvg-id="radio-shanson" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-name="Радио Шансон"  group-title="ESTERO: RUSSIA",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1, tvg-id="radio-shanson" tvg-logo="Logo N/A" tvg-name="Радио Шансон"  group-title="ESTERO: RUSSIA",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1, tvg-id="ratnik" tvg-logo="Logo N/A" tvg-name="Ратник"  group-title="ESTERO: RUSSIA",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="ratnik" tvg-logo="Logo N/A" tvg-name="Ратник"  group-title="ESTERO: RUSSIA",Ратник
+https://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1, tvg-id="rbk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" tvg-name="РБК"  group-title="ESTERO: RUSSIA",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1, tvg-id="rbk" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" tvg-name="РБК"  group-title="ESTERO: RUSSIA",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1, tvg-id="rbk" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" tvg-name="РБК"  group-title="ESTERO: RUSSIA",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1, tvg-id="rbk" tvg-logo="http://145.239.78.42/logos/rbk.png" tvg-name="РБК"  group-title="ESTERO: RUSSIA",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Рен ТВ"  group-title="ESTERO: RUSSIA",Рен ТВ
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Рен ТВ International"  group-title="ESTERO: RUSSIA",Рен ТВ International
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1, tvg-id="rossia1-pl6" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_1.jpg" tvg-name="Россия 1 (+6)"  group-title="ESTERO: RUSSIA",Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Россия 1 HD"  group-title="ESTERO: RUSSIA",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
+#EXTINF:-1, tvg-id="rossia1" tvg-logo="https://i.imgur.com/9Z0ivs4.png" tvg-name="Россия 1 HD"  group-title="ESTERO: RUSSIA",Россия 1 HD
+https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1, tvg-id="rossia-24" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" tvg-name="Россия 24"  group-title="ESTERO: RUSSIA",Россия 24
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1, tvg-id="rossia-24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rossiya_24.jpg" tvg-name="Россия 24"  group-title="ESTERO: RUSSIA",Россия 24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1, tvg-id="rossia-k" tvg-logo="Logo N/A" tvg-name="Россия К"  group-title="ESTERO: RUSSIA",Россия К
+https://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1, tvg-id="rossia-k" tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" tvg-name="Россия К"  group-title="ESTERO: RUSSIA",Россия К
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
+#EXTINF:-1, tvg-id="russky-sever" tvg-logo="Logo N/A" tvg-name="Русский Север (Вологда)"  group-title="ESTERO: RUSSIA",Русский Север (Вологда)
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:-1, tvg-id="s1-surgut" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-name="С1 (Сургут)"  group-title="ESTERO: RUSSIA",С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://lime-tv.ru/uploads/posts/2018-06/thumbs/1529009151_sgdf24.png" tvg-name="СГДФ 24 (Свердлов)"  group-title="ESTERO: RUSSIA",СГДФ 24 (Свердлов)
+http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="sever" tvg-logo="Logo N/A" tvg-name="Север (Нарьян-Мар)"  group-title="ESTERO: RUSSIA",Север (Нарьян-Мар)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1, tvg-id="sever" tvg-logo="Logo N/A" tvg-name="Север (Нарьян-Мар)"  group-title="ESTERO: RUSSIA",Север (Нарьян-Мар)
+https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1, tvg-id="sever" tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png" tvg-name="Север (Нарьян-Мар)"  group-title="ESTERO: RUSSIA",Север (Нарьян-Мар)
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1, tvg-id="smaylik-tv" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" tvg-name="Смайлик ТВ"  group-title="ESTERO: RUSSIA",Смайлик ТВ
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Сочи 24 HD"  group-title="ESTERO: RUSSIA",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Союз"  group-title="ESTERO: RUSSIA",Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1, tvg-id="soyuz" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-name="Союз"  group-title="ESTERO: RUSSIA",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1, tvg-id="soyuz" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/soyuz.jpg" tvg-name="Союз"  group-title="ESTERO: RUSSIA",Союз
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Страна FM"  group-title="ESTERO: RUSSIA",Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="СТРК HD"  group-title="ESTERO: RUSSIA",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="СТС International"  group-title="ESTERO: RUSSIA",СТС International
+https://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="СТС Прима"  group-title="ESTERO: RUSSIA",СТС Прима
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1, tvg-id="surgut-24" tvg-logo="http://online-red.com/images/tv/surgut-24.png" tvg-name="Сургут 24"  group-title="ESTERO: RUSSIA",Сургут 24
+https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1, tvg-id="tatarstan24" tvg-logo="http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg" tvg-name="Татарстан-24"  group-title="ESTERO: RUSSIA",Татарстан-24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТВР 24 (Сергиев Посад)"  group-title="ESTERO: RUSSIA",ТВР 24 (Сергиев Посад)
+https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="tvtour" tvg-logo="Logo N/A" tvg-name="ТВТУР"  group-title="ESTERO: RUSSIA",ТВТУР
+https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://online-red.com/images/tv/86.png" tvg-name="Телеканал 86 (Сургут)"  group-title="ESTERO: RUSSIA",Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ТНВ Планета"  group-title="ESTERO: RUSSIA",ТНВ Планета
+https://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="tolyatti24" tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" tvg-name="Тольятти 24"  group-title="ESTERO: RUSSIA",Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1, tvg-id="tri-angela" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" tvg-name="Три Ангела"  group-title="ESTERO: RUSSIA",Три Ангела
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1, tvg-id="tugan-tel" tvg-logo="https://i.imgur.com/6rbVqcY.png" tvg-name="Туган Тел"  group-title="ESTERO: RUSSIA",Туган Тел
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:-1, tvg-id="udmurtia" tvg-logo="Logo N/A" tvg-name="Удмуртия"  group-title="ESTERO: RUSSIA",Удмуртия
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="urfo24" tvg-logo="Logo N/A" tvg-name="УрФО 24"  group-title="ESTERO: RUSSIA",УрФО 24
+https://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" tvg-name="Хузур ТВ"  group-title="ESTERO: RUSSIA",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Шансон ТВ"  group-title="ESTERO: RUSSIA",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="shanson-tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" tvg-name="Шансон-ТВ"  group-title="ESTERO: RUSSIA",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="shanson-tv" tvg-logo="https://www.shanson.tv/image/logo_160120.png" tvg-name="Шансон-ТВ"  group-title="ESTERO: RUSSIA",Шансон-ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="shanson-tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" tvg-name="Шансон-ТВ"  group-title="ESTERO: RUSSIA",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="shanson-tv" tvg-logo="https://www.shanson.tv/image/logo_160120.png" tvg-name="Шансон-ТВ"  group-title="ESTERO: RUSSIA",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://tv41.ru/images/00.png" tvg-name="Щелковское ТВ"  group-title="ESTERO: RUSSIA",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1, tvg-id="echotv" tvg-logo="Logo N/A" tvg-name="Эхо TV (Рязань)"  group-title="ESTERO: RUSSIA",Эхо TV (Рязань)
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1, tvg-id="yugra" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" tvg-name="Югра"  group-title="ESTERO: RUSSIA",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="utv-cheboxary" tvg-logo="Logo N/A" tvg-name="ЮТВ (Чебоксары)"  group-title="ESTERO: RUSSIA",ЮТВ (Чебоксары)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

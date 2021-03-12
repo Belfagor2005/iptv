@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="21TV.am" tvg-name="21TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/hbkWdwn.png" group-title="",21TV (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -82,3 +83,46 @@ https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
 #EXTINF:-1 tvg-id="YerkirMedia.am" tvg-name="Yerkir Media" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/FKpxkVH.png" group-title="",Yerkir Media (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
+=======
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="1TV"  group-title="ESTERO: ARMENIA",1TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" tvg-name="Amga"  group-title="ESTERO: ARMENIA",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arm News TV"  group-title="ESTERO: ARMENIA",Arm News TV
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Armenia TV"  group-title="ESTERO: ARMENIA",Armenia TV
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARTN TV"  group-title="ESTERO: ARMENIA",ARTN TV
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV"  group-title="ESTERO: ARMENIA",ATV
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV ԿԻՆՈՄԱՆ"  group-title="ESTERO: ARMENIA",ATV ԿԻՆՈՄԱՆ
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV Հայ TV"  group-title="ESTERO: ARMENIA",ATV Հայ TV
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MKVkDVo.png" tvg-name="H1"  group-title="ESTERO: ARMENIA",H1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MKVkDVo.png" tvg-name="H1 (Backup)"  group-title="ESTERO: ARMENIA",H1 (Backup)
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kentron"  group-title="ESTERO: ARMENIA",Kentron
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zYO4KjA.jpg" tvg-name="Radio Van 103.0 FM Yerevan"  group-title="ESTERO: ARMENIA",Radio Van 103.0 FM Yerevan
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/iiw909y.png" tvg-name="SONG TV Armenia"  group-title="ESTERO: ARMENIA",SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-name="TBN Armenia"  group-title="ESTERO: ARMENIA",TBN Armenia
+https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="US Armenia TV"  group-title="ESTERO: ARMENIA",US Armenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Аrmenia TV Premium 3"  group-title="ESTERO: ARMENIA",Аrmenia TV Premium 3
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ազատություն TV"  group-title="ESTERO: ARMENIA",Ազատություն TV
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ԱՐ"  group-title="ESTERO: ARMENIA",ԱՐ
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Դար 21"  group-title="ESTERO: ARMENIA",Դար 21
+http://ott-cdn.ucom.am/s10/index.m3u8
+
+>>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64
