@@ -1,17 +1,58 @@
-<<<<<<< HEAD
 #EXTM3U x-tvg-url="http://i.mjh.nz/nzau/epg.xml.gz"
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="2GB Sydney" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="2UE Sydney" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",2UE Sydney
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="4BC Brisbane" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="9Gem (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",9Gem (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="9Go! (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",9Go! (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="9Life! (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",9Life! (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC 2 (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",ABC 2 (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC Me (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",ABC Me (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC News" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",ABC News
+https://abc-iview-mediapackagestreams-1 group-title="ESTERO: AUSTRALIA",.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC News (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",ABC News (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC News 24" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",ABC News 24
+http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
 #EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/lokNx1U.png" group-title="Religious",ACCTV (720p)
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-name="Australia Channel" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="News",Australia Channel (720p)
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="AW Melbourne" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bloomberg TV Australia" tvg-country="AU" tvg-language="" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bloomberg TV Australia (Backup)" tvg-country="AU" tvg-language="" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="",Bloomberg TV Australia (Backup)
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-name="C31 Melbourne" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",C31 Melbourne (404p)
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Channel 44 Adelaide" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",Channel 44 Adelaide
+https://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/master.m3u8?attributes=off&
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Channel 9 (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",Channel 9 (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Expo Channel" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/2KzCShW.png" group-title="Shop",Expo Channel (360p)
 https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Food Network (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",Food Network (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="NITV (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",NITV (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com (576p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Redbull TV" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",Redbull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="SBS (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",SBS (Geo)
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 #EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="Sky News Extra 1" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 1 (576p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra2.au" tvg-name="Sky News Extra 2" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="News",Sky News Extra 2 (540p)
@@ -20,70 +61,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SnowyMountainsTV.au" tvg-name="Snowy Mountains TV" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Sport",Snowy Mountains TV (1082p)
 http://c.mjh.nz/snowy-mountains/
-=======
-﻿#EXTM3U
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="2GB Sydney"  group-title="ESTERO: AUSTRALIA",2GB Sydney
-http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="2UE Sydney"  group-title="ESTERO: AUSTRALIA",2UE Sydney
-http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="4BC Brisbane"  group-title="ESTERO: AUSTRALIA",4BC Brisbane
-http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9Gem (Geo)"  group-title="ESTERO: AUSTRALIA",9Gem (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9Go! (Geo)"  group-title="ESTERO: AUSTRALIA",9Go! (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9Life! (Geo)"  group-title="ESTERO: AUSTRALIA",9Life! (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC 2 (Geo)"  group-title="ESTERO: AUSTRALIA",ABC 2 (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC Me (Geo)"  group-title="ESTERO: AUSTRALIA",ABC Me (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News"  group-title="ESTERO: AUSTRALIA",ABC News
-https://abc-iview-mediapackagestreams-1 group-title="ESTERO: AUSTRALIA",.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News (Geo)"  group-title="ESTERO: AUSTRALIA",ABC News (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News 24"  group-title="ESTERO: AUSTRALIA",ABC News 24
-http://abcnews24mha-lh.akamaihd.net/i/abcnews24nospe_1@70019/master.m3u8
-#EXTINF:-1, tvg-id="tv.acctv" tvg-logo="https://i.imgur.com/lokNx1U.png" tvg-name="ACCTV"  group-title="ESTERO: AUSTRALIA",ACCTV
-https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-name="Australia Channel"  group-title="ESTERO: AUSTRALIA",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AW Melbourne"  group-title="ESTERO: AUSTRALIA",AW Melbourne
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-name="Bloomberg TV Australia"  group-title="ESTERO: AUSTRALIA",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" tvg-name="Bloomberg TV Australia (Backup)"  group-title="ESTERO: AUSTRALIA",Bloomberg TV Australia (Backup)
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 44 Adelaide"  group-title="ESTERO: AUSTRALIA",Channel 44 Adelaide
-https://bdz47wk-lh.akamaihd.net/i/bdz47wk6avrot1_1@683133/master.m3u8?attributes=off&
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 9 (Geo)"  group-title="ESTERO: AUSTRALIA",Channel 9 (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Expo Channel"  group-title="ESTERO: AUSTRALIA",Expo Channel
-http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2KzCShW.png" tvg-name="Expo Channel"  group-title="ESTERO: AUSTRALIA",Expo Channel
-https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food Network (Geo)"  group-title="ESTERO: AUSTRALIA",Food Network (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="tv.fox.sports.news" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" tvg-name="Fox Sports News"  group-title="ESTERO: AUSTRALIA",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NITV (Geo)"  group-title="ESTERO: AUSTRALIA",NITV (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="tv.101305020528" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-name="Racing.com"  group-title="ESTERO: AUSTRALIA",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Redbull TV"  group-title="ESTERO: AUSTRALIA",Redbull TV
-http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS (Geo)"  group-title="ESTERO: AUSTRALIA",SBS (Geo)
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-name="Sky News Extra 1"  group-title="ESTERO: AUSTRALIA",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-name="Sky News Extra 2"  group-title="ESTERO: AUSTRALIA",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-name="Sky News Extra 3"  group-title="ESTERO: AUSTRALIA",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-name="Snowy Mountains TV"  group-title="ESTERO: AUSTRALIA",Snowy Mountains TV
-http://c.mjh.nz/snowy-mountains/
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TEN (Geo)"  group-title="ESTERO: AUSTRALIA",TEN (Geo)
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TEN (Geo)" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",TEN (Geo)
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.028compatible%3B+FMSc%2F1.0%29
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WestTV"  group-title="ESTERO: AUSTRALIA",WestTV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="WestTV" tvg-country="AU" tvg-language="" tvg-logo="Logo N/A" group-title="",WestTV
 http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
->>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

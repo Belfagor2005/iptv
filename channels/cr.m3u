@@ -1,5 +1,4 @@
 #EXTM3U
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="88Stereo.cr" tvg-name="88 Stereo" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="",88 Stereo (486p)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="AnexionTV.cr" tvg-name="Anexion TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="",Anexion TV (360p)
@@ -8,32 +7,19 @@ https://rtmp.info/anexiontv/envivo/playlist.m3u8
 http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 #EXTINF:-1 tvg-id="CanalUCR.cr" tvg-name="Canal UCR" tvg-country="CR" tvg-language="Spanish" tvg-logo="http://costarica.latv.info/canal-15-ucr-online.png" group-title="",Canal UCR (1080p)
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="",Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="EJTV.cr" tvg-name="EJTV" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="Religious",EJTV (288p)
 https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="",Extrema TV (720p)
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="",Extrema TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+#EXTINF:-1 tvg-id="HBTVTICAVISION.cr" tvg-name="HBTV TICAVISION" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",HBTV TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MultimediosCostaRica.cr" tvg-name="Multimedios Costa Rica" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="",Multimedios Costa Rica (720p)
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="",TeleSUR Costa Rica (720p)
+#EXTINF:-1 tvg-id="Telesur.cr" tvg-name="Telesur" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUnoTV.cr" tvg-name="TeleUno TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="",TeleUno TV (720p)
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVisión" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="",TicaVisión (720p)
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-=======
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" group-title="ESTERO: COSTA RICA",Anexion TV
-https://rtmp.info/anexiontv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-language="Spanish" group-title="ESTERO: COSTA RICA",Colosal TV
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="ESTERO: COSTA RICA",Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pjRfKkr.jpg" group-title="ESTERO: COSTA RICA",HBTV TICAVISION
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="ESTERO: COSTA RICA",Multimedios Costa Rica
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="ESTERO: COSTA RICA",Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
->>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

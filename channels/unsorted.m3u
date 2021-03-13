@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",100automoto.tv
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg" group-title="",101 Tele Antequera
 https://limited22.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="",101TV Malaga
@@ -9,8 +7,6 @@ https://limited22.todostreaming.es/live/101tv-web101tv.m3u8
 http://stream.spreeradio.de/spree-live/mp3-128/konsole
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/1iayQmM.png" group-title="",105'5 Spreeradio 80er
 http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",12 TV Parma
-https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5d4af00df345adb154b7a1f4/colorLogoPNG.png" group-title="",21 Jump Street
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="",24 Horas
@@ -185,8 +181,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 https://nrpus.bozztv.com/36bay2/gusa-atc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/GZABUfW.png" group-title="",Antena Cook and PLay
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Antenna Tre Veneto
-https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/TpBbZwq.png" group-title="",Antenne Vorarlberg (Webradio)
 http://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="",Antiques Roadshow UK
@@ -203,8 +197,6 @@ http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="",Arkansas: Little Rock
 https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DuTqycJ.png" group-title="",Arte Network
-https://w1.mediastreaming.it/tuttositiweb/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="",As  Pistas de Blue
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="",Asesinatos de Midsomer
@@ -317,8 +309,6 @@ https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3YJO7N2.jpg" group-title="",Berat TV
 https://cdn-berattv.yayin.com.tr/berattv/berattv/chunklist_w401133734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6jNbS4e.png" group-title="",Bergamo TV
-http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/I0MxUm2.jpg" group-title="Music",Best Cable Music
 https://live.siete.us:19360/bestcablemusic/bestcablemusic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="",BET CLASSICS Pluto TV
@@ -455,8 +445,6 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/87KGlQz.png" group-title="",Campiña Sur TV
 https://cdn01.yowi.tv/4131RI73I9/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/KFLdopL.png" group-title="",Canal 10 Emporda
-http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/UtMrzma.jpg" group-title="",Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/iQ5Umwj.jpg" group-title="",Canal 29
@@ -477,8 +465,6 @@ https://edge3.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/0eGv67Q.png" group-title="",Canal Macau
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="",Canal Malaga
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/VdLvmDt.png" group-title="",Canal Once Internacional
@@ -597,8 +583,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/
 https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Class CNBC
 https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/2LJzdu6.png" group-title="",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="",Classic Movies Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="",Classic Toons TV
@@ -851,8 +835,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6b535a2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5d8dc1d8da13e15d9fce6911/colorLogoPNG.png" group-title="",Dogs 24/7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8dc1d8da13e15d9fce6911/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dHqUHfw.png" group-title="",Donezk TV
-http://stream.dn.ua/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="",Dora TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5e43c344b54fe800093552f4/colorLogoPNG.png" group-title="",Dora TV
@@ -987,8 +969,6 @@ https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/3e896322-56cd-4017-81aa-84d8962455fb-small3x1_STIRR_Logo_0320_ESR24x7eSportsChannel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",ESRevolution
 https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="",Estepona TV
-https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="",Estrellas de Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="",ET Live
@@ -1187,8 +1167,6 @@ http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="",FOX Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/k2aV1A0.jpg" group-title="",Fox Tv Greece
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="",Franken Fernsehen Nürnberg
 https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/5MLGsFs.png" group-title="Music",Friday Feels (US)
@@ -1289,8 +1267,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/KhdR4wa.jpg" group-title="",Go USA
 https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Gold 78
-https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/0N5jh8z.jpg" group-title="",Gonca TV
 https://broadcasttr.com:446/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="",Gordon Ramsay's Kitchen
@@ -1317,8 +1293,6 @@ http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 https://cdnlive.livecast.io/388656798579293628302251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/fC3KuwT.jpg" group-title="",GSTV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="",Guneydoğu TV
-http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2be3bd47-2b8b-4bb4-83d2-924f59a261e3-small3x1_STIRR_Logo_0320_GustoTV_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="",Gusto
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/L0aXwHX.png" group-title="",Gusto TV
@@ -1337,8 +1311,6 @@ https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RhPIYKu.jpg" group-title="",Haber 61
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/iZ6qgDg.png" group-title="",Hala TV Israel
-https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/JHR7DJS.png" group-title="",Haldensleben TV
 https://578d8e1867e87.streamlock.net/medienasa-vod/_definst_/mp4:hdl_sendung_720p.mp4/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=941156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/9TRhahY.png" group-title="",Hamburg 1
@@ -1483,8 +1455,6 @@ https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="",Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="",Indiana: South Bend
@@ -1557,8 +1527,6 @@ https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Janataa TV
-http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/pHJm3I0.png" group-title="",JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="",Jena TV
@@ -1697,8 +1665,6 @@ http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ZiVPUiT.png" group-title="",La Muscle TV
 https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="",La Tele
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/laff.png" group-title="",Laff
 https://bozztv.com/teleyupp/teleup-laff/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="",Lakes Live
@@ -1855,8 +1821,6 @@ http://marmaratv.canliyayin.org/P324353563/marmaratv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc264e0451770009ed742f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" group-title="",Mario vs Sonic
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Marutam TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="",Maryland: Baltimore
 https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/O3JGxU2.jpg" group-title="Music",Mas Cumbia TV
@@ -2281,8 +2245,6 @@ http://cdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
 https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/DYO1tVZ.png" group-title="",Nova TV Brasov
 http://novapress.ro:1935/live/nova/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="",Nove IT
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="",Novelas Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="",Novelas Romance
@@ -2387,8 +2349,6 @@ https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5e4ee1c1f8928000093d0425/colorLogoPNG.png" group-title="",One Day at a Time
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4ee1c1f8928000093d0425/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="",ONE GOLF
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="",One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="Music",ONE1 Music (Not until Kodi 19!)
@@ -2925,8 +2885,6 @@ https://live.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 https://streamtech-entrypoint.com:5443/LiveApp/streams/608806443178813216408994.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/G03w5XQ.png" group-title="",Prima TV
 https://netstreaming.eu:8080/hls/unutv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Primantenna
-https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ltoMTJV.png" group-title="",Primocanale
@@ -2993,8 +2951,6 @@ https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="",Radio 538 (Webradio)
 http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dANlbjX.png" group-title="",Radio Argovia 90.3 FM Aarau (Webradio)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/xRzItla.png" group-title="",Radio BOB
 https://streams.radiobob.de/bob-national/mp3-192
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" group-title="",Radio Contact (Webradio)
@@ -3011,8 +2967,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/cytXyRK.png" group-title="",Radio Ostrock
 https://secondradio.de:7070/ostrock?nc=1613902505298
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Radio Radicale TV
-https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Radio Radio TV
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Nb4GEO5.png" group-title="",Radio Schlager Paradies
@@ -3097,14 +3051,8 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="",Rescue 911
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/z6SjRc2.jpg" group-title="",Rete 55
-https://stream.internet.one/Rete55_Live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/qkxCo8N.png" group-title="",Rete 7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CzjqIz8.png" group-title="",Rete Biella TV
-https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/rHLJNLR.jpg" group-title="",Rete Oro
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="",Retro Crush
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" group-title="",Retro Drama
@@ -3169,8 +3117,6 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playl
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/IVKcVbs.png" group-title="",RT Spain
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="",RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/H36G8wZ.png" group-title="",RTHK TV 31
@@ -3187,8 +3133,6 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/i7245OO.png" group-title="",RTL West (18:00 - 18:30)
 https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/9houwTS.png" group-title="",RTTR Trento
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/51/71/17115/1/c175.png" group-title="",RTV Amstelveen
 https://live.rtva.nl/live/zender.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/xqBGPA1.png" group-title="",RTV Arnhem
@@ -3445,8 +3389,6 @@ https://59ef7ad665d1d.streamlock.net:1443/artelab/_definst_/artelab/playlist.m3u
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/O7gIg07.png" group-title="",Sunsets Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",SuperSix Lombardia
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="",Supertoons TV
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="",Supertoons TV
@@ -3509,14 +3451,10 @@ https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
 http://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://icanlive.tv/pictures/tele1.jpg" group-title="",Tele 1
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="",Tele Abruzzo
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MLCYwWD.png" group-title="",Tele Crime
 https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="",Tele Drama
 https://endemol-tele-drama-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Tele Liguria Sud
-https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telem1.png" group-title="",Tele M1 HD
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Tele Mantova
@@ -3525,18 +3463,12 @@ https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3oWB2li.jpg" group-title="",Tele Pavia
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="",Tele Pegaso Catania
-https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Tele Pordenone
 http://213.187.12.18/telepn/telepn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/0ZmcpEE.png" group-title="",Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TeleArena
 https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Telebelluno
-https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Telecupole
-https://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="",Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="",Telefe Noticias
@@ -3549,28 +3481,18 @@ https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/uFsOxUD.jpg" group-title="",Teleganés
 https://cdn01.yowi.tv/P18V9163O7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TeleGenova
-https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/4eDSmgn.jpg" group-title="",TeleGilena
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Telegranda
-http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Teleliberta
 http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png" group-title="",Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="Music",TeleMusica HD
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Telenod
-https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Woq6TJo.png" group-title="",Telenordest
 https://59d8c0cee6f3d.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TeleRent 7Gold
-https://stream2.xdevel.com/video0s86-21/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/tQKTyGt.png" group-title="",Telesur Madrid
 https://cdn01.yowi.tv/W3GH8E4B5V/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/U1BjkEl.png" group-title="",TeleTerni
-https://diretta.teleterni.it/live/stream_src.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/HuPkeOg.jpg" group-title="",TeleTicino
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="",Teletubbies
@@ -3583,8 +3505,6 @@ https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/RG4o4Ni.png" group-title="",TeleVenezia
 https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/crMQmn4.png" group-title="",TeleVideo Agrigento
-https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/qVoUmgB.png" group-title="",Televisión de San Vicente
 https://cdn01.yowi.tv/L4Y5ILBY62/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/telezueri.png" group-title="",Telezürich
@@ -3829,8 +3749,6 @@ https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8
 https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Q7Zss1U.png" group-title="",Trinity & Beyond
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/JEw9RCq.png" group-title="",TRM h24 Basilicata
-http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3LSDHHJ.png" group-title="",Trofey
 https://5db1ab4f970be.streamlock.net/live/smil:trofey.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="",TROL
@@ -3955,12 +3873,6 @@ http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/UAQpSs5.png" group-title="",TV4 La Vall
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV7 Azzurra
-http://217.61.26.46:8080/hls/azzurra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV7 News
-http://217.61.26.46:8080/hls/news.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV9 Telugu
-http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="",tvA
 https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tva.png" group-title="",TVA Ostbayern
@@ -4051,12 +3963,8 @@ https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
 https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" group-title="",Utah: Salt Lake City
 https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Vaanavil TV
-http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="",Vaya semanita
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/H8ucPJd.jpg" group-title="",VENN
 https://venntv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/MYHC666.png" group-title="",Venn TV
@@ -4091,8 +3999,6 @@ https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/yakUgm5.png" group-title="",Video Brescia
 http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/QPISrvr.png" group-title="",Video Calabria
-http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="Music",Video Tour Channel HD
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="",Videonovara

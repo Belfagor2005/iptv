@@ -1,11 +1,16 @@
-<<<<<<< HEAD
 #EXTM3U
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ABC News" tvg-country="AL" tvg-language="" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" group-title="",ABC News
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.al" tvg-name="AlbUK TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="",AlbUK TV (1080p)
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ApollonTV.al" tvg-name="Apollon TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png" group-title="",Apollon TV
 http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EUROAL.al" tvg-name="EUROAL" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Q1UOlkA.png" group-title="Music",EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Hronka" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",Hronka
+http://213.81.153.221:8080/hronka
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Kezmarok" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",Kezmarok
+http://213.81.153.221:8080/kezmarok
 #EXTINF:-1 tvg-id="KohaTV.al" tvg-name="Koha TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="",Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream
 #EXTINF:-1 tvg-id="News 24 AL" tvg-name="News 24 AL" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (576p)
@@ -14,54 +19,27 @@ http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 https://tv.oranews.tv/live/ora/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="",Ora News
 https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Peace TV" tvg-country="AL" tvg-language="" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Rrokum TV" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTK 1 Kosovo" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",RTK 1 Kosovo
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTK 2" tvg-country="AL" tvg-language="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" group-title="",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTK 2 Kosovo" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",RTK 2 Kosovo
+http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTK 3 Kosovo" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",RTK 3 Kosovo
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTK 4 Kosovo" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",RTK 4 Kosovo
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVIlirida.al" tvg-name="RTV Ilirida" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Ilirida
 http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
-#EXTINF:-1 tvg-id="Syri Blue" tvg-name="Syri Blue" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" group-title="",Syri TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTV Zeri" tvg-country="AL" tvg-language="" tvg-logo="Logo N/A" group-title="",RTV Zeri
+http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Syri Blue" tvg-name="Syri Blue HD" tvg-country="AL" tvg-language="" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" group-title="",Syri Blue HD
 http://live.syri.tv:6969/live/syriblue/hd/23.ts
 #EXTINF:-1 tvg-id="TV7.al" tvg-name="TV7" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="",TV7 (540p)
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-name="Zjarr TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr TV (1080p)
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
-=======
-﻿#EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" tvg-name="ABC News"  group-title="ESTERO: ALBANIA",ABC News
-http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/gRvEH4v.png" tvg-name="AlbUK TV"  group-title="ESTERO: ALBANIA",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://albepg.com/tvlogi/Apollon%20TV.png" tvg-name="Apollon TV"  group-title="ESTERO: ALBANIA",Apollon TV
-http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Q1UOlkA.png" tvg-name="EUROAL"  group-title="ESTERO: ALBANIA",EUROAL
-http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hronka"  group-title="ESTERO: ALBANIA",Hronka
-http://213.81.153.221:8080/hronka
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kezmarok"  group-title="ESTERO: ALBANIA",Kezmarok
-http://213.81.153.221:8080/kezmarok
-#EXTINF:-1, tvg-id="News 24 AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" tvg-name="News 24"  group-title="ESTERO: ALBANIA",News 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-name="Peace TV"  group-title="ESTERO: ALBANIA",Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rrokum TV"  group-title="ESTERO: ALBANIA",Rrokum TV
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 1 Kosovo"  group-title="ESTERO: ALBANIA",RTK 1 Kosovo
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png" tvg-name="RTK 2"  group-title="ESTERO: ALBANIA",RTK 2
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 2 Kosovo"  group-title="ESTERO: ALBANIA",RTK 2 Kosovo
-http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 3 Kosovo"  group-title="ESTERO: ALBANIA",RTK 3 Kosovo
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 4 Kosovo"  group-title="ESTERO: ALBANIA",RTK 4 Kosovo
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV Zeri"  group-title="ESTERO: ALBANIA",RTV Zeri
-http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
-#EXTINF:-1, tvg-id="Syri Blue" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" tvg-name="Syri Blue HD"  group-title="ESTERO: ALBANIA",Syri Blue HD
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-name="TV7"  group-title="ESTERO: ALBANIA",TV7
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1, tvg-id="My Music" tvg-logo="https://tvmannen.es/iptv_channels/2258100_files/xmusichitsal.png" tvg-name="XMuzik Hits HD"  group-title="ESTERO: ALBANIA",XMuzik Hits HD
-http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UValLp1.png" tvg-name="Zjarr TV"  group-title="ESTERO: ALBANIA",Zjarr TV
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
-
->>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

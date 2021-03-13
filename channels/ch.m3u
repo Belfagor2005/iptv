@@ -1,124 +1,73 @@
-<<<<<<< HEAD
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-name="Canal Alpha Jura" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="",Canal Alpha Jura (1080p)
-https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Canal 9" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Canal Alpha Jura" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Canal Alpha Jura
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-name="Couleur 3" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Couleur 3 (720p)
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeit.ch" tvg-name="Die Neue Zeit" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" group-title="",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
 #EXTINF:-1 tvg-id="DieuTV.ch" tvg-name="Dieu TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" group-title="",Dieu TV (1080p)
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9 (1080p)
-https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Folx TV" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 #EXTINF:-1 tvg-id="Kanal9.ch" tvg-name="Kanal 9" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" group-title="",Kanal 9 (1080p)
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Tele (Opt-1)" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",La Tele (Opt-1)
+https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8?
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Tele (Opt-2)" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",La Tele (Opt-2)
+http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="La Tele (Opt-3)" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",La Tele (Opt-3)
+https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 #EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="",La Télé (1080p)
 https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTele.ch" tvg-name="La Télé" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="",La Télé (1080p)
-https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
 #EXTINF:-1 tvg-id="LFMTV.ch" tvg-name="LFM TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="",LFM TV (1080p)
 https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Léman Bleu" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Léman Bleu
+https://naxoo.vedge.infomaniak.com/livecast/smil:naxoo.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="OneTV.ch" tvg-name="One TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/YEQ957V.png" group-title="",One TV (720p)
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="One Tv Svizzera" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",One Tv Svizzera
+https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1888877402_b3000000.m3u8?spark=9f6a3329-2cfd-4ff3-87e2-41c16ee2adda&token=
 #EXTINF:-1 tvg-id="QS24.ch" tvg-name="QS24" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="",QS24 (720p)
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Radio Argovia" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Radio Argovia
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
 #EXTINF:-1 tvg-id="RadioPilatusTV.ch" tvg-name="Radio Pilatus TV" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="",Radio Pilatus TV (1080p)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="Rouge TV" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/G030MZb.png" group-title="",Rouge TV (720p)
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTS 1" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",RTS 1
+https://s1.tntendirect.com/rts1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="RTS 2" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",RTS 2
+https://s1.tntendirect.com/rts2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Sport",Swiss Sport TV (720p)
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tele 1" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Tele 1
+https://rrr.sz.xlcdn.com/?account=ZentralschweizerFernsehenTele1AG&file=tele1&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tele M1 HD" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 #EXTINF:-1 tvg-id="Tele M1 HD CH" tvg-name="Tele M1 HD CH" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/RqKjRTP.png" group-title="",Tele M1 HD
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TeleBarn" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn
+https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TeleBarn" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TeleBarn" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBarn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TeleBarn (Opt-1)" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",TeleBarn (Opt-1)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
 #EXTINF:-1 tvg-id="Telebasel.ch" tvg-name="Telebasel" tvg-country="CH" tvg-language="German" tvg-logo="" group-title="",Telebasel (288p)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
 #EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel HD CH" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/mMXYqtm.png" group-title="",Telebasel (288p)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",TeleBielingue
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" group-title="",TeleBielingue
 https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
-#EXTINF:-1 tvg-id="TeleBielingue.ch" tvg-name="TeleBielingue" tvg-country="CH" tvg-language="German" tvg-logo="" group-title="",TeleBielingue (720p)
-https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBärn (720p)
-https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
 #EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="" group-title="",TeleBärn
 https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBärn (720p)
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1 tvg-id="TeleBarn.ch" tvg-name="TeleBärn" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" group-title="",TeleBärn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
-#EXTINF:-1 tvg-id="TVM3.ch" tvg-name="TVM3" tvg-country="CH;FR;MC;BE;CA;LU" tvg-language="French" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" group-title="",TVM3 (1080p)
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-=======
-﻿#EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9"  group-title="ESTERO: SVIZZERA",Canal 9
-https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" tvg-name="Canal Alpha Jura"  group-title="ESTERO: SVIZZERA",Canal Alpha Jura
-https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Alpha Jura"  group-title="ESTERO: SVIZZERA",Canal Alpha Jura
-http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-name="Die Neue Zeit"  group-title="ESTERO: SVIZZERA",Die Neue Zeit
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Die Neue Zeit"  group-title="ESTERO: SVIZZERA",Die Neue Zeit
-https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" tvg-name="Dieu TV"  group-title="ESTERO: SVIZZERA",Dieu TV
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Folx TV"  group-title="ESTERO: SVIZZERA",Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 9"  group-title="ESTERO: SVIZZERA",Kanal 9
-https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Tele (Opt-1)"  group-title="ESTERO: SVIZZERA",La Tele (Opt-1)
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8?
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Tele (Opt-2)"  group-title="ESTERO: SVIZZERA",La Tele (Opt-2)
-http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Tele (Opt-3)"  group-title="ESTERO: SVIZZERA",La Tele (Opt-3)
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Tele (Opt-3)"  group-title="ESTERO: SVIZZERA",La Tele (Opt-3)
-https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Léman Bleu"  group-title="ESTERO: SVIZZERA",Léman Bleu
-https://naxoo.vedge.infomaniak.com/livecast/smil:naxoo.smil/manifest.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UE1E3uH.png" tvg-name="LFM TV"  group-title="ESTERO: SVIZZERA",LFM TV
-https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YEQ957V.png" tvg-name="One TV"  group-title="ESTERO: SVIZZERA",One TV
-https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="One Tv Svizzera"  group-title="ESTERO: SVIZZERA",One Tv Svizzera
-https://edge7.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1888877402_b3000000.m3u8?spark=9f6a3329-2cfd-4ff3-87e2-41c16ee2adda&token=
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio Argovia"  group-title="ESTERO: SVIZZERA",Radio Argovia
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-name="Rouge TV"  group-title="ESTERO: SVIZZERA",Rouge TV
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rouge TV (Opt-2)"  group-title="ESTERO: SVIZZERA",Rouge TV (Opt-2)
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 1"  group-title="ESTERO: SVIZZERA",RTS 1
-https://s1.tntendirect.com/rts1/live/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 2"  group-title="ESTERO: SVIZZERA",RTS 2
-https://s1.tntendirect.com/rts2/live/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele 1"  group-title="ESTERO: SVIZZERA",Tele 1
-https://rrr.sz.xlcdn.com/?account=ZentralschweizerFernsehenTele1AG&file=tele1&type=live&service=wowza&output=playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele M1 HD"  group-title="ESTERO: SVIZZERA",Tele M1 HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-#EXTINF:-1, tvg-id="Tele M1 HD CH" tvg-logo="https://i.imgur.com/RqKjRTP.png" tvg-name="Tele M1 HD"  group-title="ESTERO: SVIZZERA",Tele M1 HD
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-name="TeleBarn"  group-title="ESTERO: SVIZZERA",TeleBarn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-name="TeleBarn"  group-title="ESTERO: SVIZZERA",TeleBarn
-https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-name="TeleBarn"  group-title="ESTERO: SVIZZERA",TeleBarn
-https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleBarn (Opt-1)"  group-title="ESTERO: SVIZZERA",TeleBarn (Opt-1)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleBarn (Opt-2)"  group-title="ESTERO: SVIZZERA",TeleBarn (Opt-2)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleBarn (Opt-3)"  group-title="ESTERO: SVIZZERA",TeleBarn (Opt-3)
-http://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telebasel HD"  group-title="ESTERO: SVIZZERA",Telebasel HD
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/bPpWJj2.png" tvg-name="TeleBielingue"  group-title="ESTERO: SVIZZERA",TeleBielingue
-https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleBielingue"  group-title="ESTERO: SVIZZERA",TeleBielingue
-http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVM3"  group-title="ESTERO: SVIZZERA",TVM3
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="TVM3" tvg-country="CH" tvg-language="" tvg-logo="Logo N/A" group-title="",TVM3
 http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" tvg-name="TVM3"  group-title="ESTERO: SVIZZERA",TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
->>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64

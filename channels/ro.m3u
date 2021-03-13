@@ -1,15 +1,16 @@
-<<<<<<< HEAD
 #EXTM3U
 #EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" group-title="Music",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ASEVENTV.ro" tvg-name="ASEVENTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",A7 TV (720p)
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="ActualitateaTv" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",ActualitateaTv
+http://188.210.224.6:81/tv4/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Alfa & Omega Tv" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",Alfa & Omega Tv
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV (540p)
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV (540p)
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/StJg6Pu.png" group-title="Religious",Alfa Omega TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="AntenaComedy.ro" tvg-name="Antena Comedy" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tH624pc.png" group-title="Comedy",Antena Comedy
@@ -60,6 +61,8 @@ http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="InfinitTV.ro" tvg-name="Infinit TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/xfMpRfy/Infinit-tv.jpg" group-title="",Infinit TV
 http://webmobile.xdev.ro:81/tv6/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="InformatiaTv" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",InformatiaTv
+http://s1.streamnet.ro:8014/stream.flv
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jo5fei5.png" group-title="",Intermedia TV (576p)
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Kiss TV (576p)
@@ -108,12 +111,16 @@ http://s2.streamnet.ro:8035/stream.flv
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="Speranta TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="",Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tele Star" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",Tele Star
+http://193.34.109.10:8090
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-name="Telestar1" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qSd8DTI.png" group-title="",Telestar1
 http://s1.streamnet.ro:8053/stream.flv
 #EXTINF:-1 tvg-id="TraditiiTV.ro" tvg-name="TraditiiTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/LZYnpH6/Traditii-TV-RO.png" group-title="",TraditiiTV
 rtmp://traditii1.arya.ro/live/traditiitv1
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="",Travel Mix (576p)
 http://89.38.8.131:39520
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Tv Buzau" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",Tv Buzau
+http://95.77.16.72:81/tv20/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCITY.ro" tvg-name="TV CITY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0CbAlXu.png" group-title="",TV CITY
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-name="TV SE" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" group-title="",TV SE
@@ -128,101 +135,13 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" group-title="",TVSat
 http://89.38.8.130:39443
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="U Tv" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",U Tv
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",UTV (576p)
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="Music",UTV (576p)
 https://edge126.rcs-rds.ro/utvedge/utvhq.stream/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Vox Tv Galati" tvg-country="RO" tvg-language="" tvg-logo="Logo N/A" group-title="",Vox Tv Galati
+http://95.77.16.72:81/tv15/playlist.m3u8
 #EXTINF:-1 tvg-id="VPTV.ro" tvg-name="VP TV" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" group-title="",VP TV
 http://89.38.8.130:39437
-=======
-﻿#EXTM3U
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-name="1 Music Channel"  group-title="ESTERO: ROMANIA",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A7 TV"  group-title="ESTERO: ROMANIA",A7 TV
-https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ActualitateaTv"  group-title="ESTERO: ROMANIA",ActualitateaTv
-http://188.210.224.6:81/tv4/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/p4rcHoe.png" tvg-name="Agro TV"  group-title="ESTERO: ROMANIA",Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alfa & Omega Tv"  group-title="ESTERO: ROMANIA",Alfa & Omega Tv
-http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-name="Alfa Omega TV"  group-title="ESTERO: ROMANIA",Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/StJg6Pu.png" tvg-name="Alfa Omega TV"  group-title="ESTERO: ROMANIA",Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/tH624pc.png" tvg-name="Antena Comedy"  group-title="ESTERO: ROMANIA",Antena Comedy
-https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png" tvg-name="Antena Cook and Play"  group-title="ESTERO: ROMANIA",Antena Cook and Play
-https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/6R5TLlc.png" tvg-name="Antena Monden"  group-title="ESTERO: ROMANIA",Antena Monden
-https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="B1 RO" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" tvg-name="B1"  group-title="ESTERO: ROMANIA",B1
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IDLUf7r.png" tvg-name="Bollywood Clasic"  group-title="ESTERO: ROMANIA",Bollywood Clasic
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/4O7CPFq.png" tvg-name="Bollywood TV"  group-title="ESTERO: ROMANIA",Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-name="Bucovina TV"  group-title="ESTERO: ROMANIA",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/7QHdiTO.png" tvg-name="Bucovina TV"  group-title="ESTERO: ROMANIA",Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/BxUibFh.png" tvg-name="Canal33"  group-title="ESTERO: ROMANIA",Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-name="Credo TV"  group-title="ESTERO: ROMANIA",Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AX5NsOv.jpg" tvg-name="Credo TV"  group-title="ESTERO: ROMANIA",Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Lmbmx3y.png" tvg-name="Elita TV"  group-title="ESTERO: ROMANIA",Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/xAmYapr.jpg" tvg-name="Erdely TV"  group-title="ESTERO: ROMANIA",Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png" tvg-name="EST TV Neamt"  group-title="ESTERO: ROMANIA",EST TV Neamt
-http://89.38.8.130:39435
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0j1matP.jpg" tvg-name="Inedit"  group-title="ESTERO: ROMANIA",Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="InformatiaTv"  group-title="ESTERO: ROMANIA",InformatiaTv
-http://s1.streamnet.ro:8014/stream.flv
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/jo5fei5.png" tvg-name="Intermedia TV"  group-title="ESTERO: ROMANIA",Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/fw2fTCA.jpg" tvg-name="MOOZ Dance"  group-title="ESTERO: ROMANIA",MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3alPZ8X.jpg" tvg-name="MOOZ HD"  group-title="ESTERO: ROMANIA",MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/K7jP9r1.jpg" tvg-name="MOOZ Hits"  group-title="ESTERO: ROMANIA",MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cgJNpv9.png" tvg-name="MOOZ RO"  group-title="ESTERO: ROMANIA",MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/xM1dw57.png" tvg-name="Profit.ro"  group-title="ESTERO: ROMANIA",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1, tvg-id="Realitatea TV RO" tvg-logo="https://i.imgur.com/L0Givzu.png" tvg-name="Realitatea Plus"  group-title="ESTERO: ROMANIA",Realitatea Plus
-https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Singeorz Tv"  group-title="ESTERO: ROMANIA",Singeorz Tv
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-name="Speranta TV"  group-title="ESTERO: ROMANIA",Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele Star"  group-title="ESTERO: ROMANIA",Tele Star
-http://193.34.109.10:8090
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/qSd8DTI.png" tvg-name="Telestar1"  group-title="ESTERO: ROMANIA",Telestar1
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-name="TravelMix"  group-title="ESTERO: ROMANIA",TravelMix
-http://89.38.8.131:39520
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tv Buzau"  group-title="ESTERO: ROMANIA",Tv Buzau
-http://95.77.16.72:81/tv20/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0CbAlXu.png" tvg-name="TV CITY"  group-title="ESTERO: ROMANIA",TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg" tvg-name="TV SE"  group-title="ESTERO: ROMANIA",TV SE
-http://89.38.8.130:39419
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/6T7w975.png" tvg-name="TVPlus Suceava"  group-title="ESTERO: ROMANIA",TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF:-1, tvg-id="TVR Targu Mures RO" tvg-logo="https://i.imgur.com/b6EStAB.png" tvg-name="TVR Targu-Mures"  group-title="ESTERO: ROMANIA",TVR Targu-Mures
-http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png" tvg-name="TVSat"  group-title="ESTERO: ROMANIA",TVSat
-http://89.38.8.130:39443
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="U Tv"  group-title="ESTERO: ROMANIA",U Tv
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vox Tv Galati"  group-title="ESTERO: ROMANIA",Vox Tv Galati
-http://95.77.16.72:81/tv15/playlist.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png" tvg-name="VP TV"  group-title="ESTERO: ROMANIA",VP TV
-http://89.38.8.130:39437
->>>>>>> 3f9dca81503f4a72bafb55e0fd671a31414a0d64
